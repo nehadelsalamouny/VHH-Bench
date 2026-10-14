@@ -1,0 +1,23 @@
+[
+    {
+        "name": "7Q3R",
+        "covalent_bonds": [],
+        "sequences": [
+            {
+                "proteinChain": {
+                    "count": 1,
+                    "sequence": "AMAEVQLVESGGGLVQAGGSLRLSCAASGRAFSRYFMGWFRQAPGKEREFVAGISRSGGSTDYANFVKGRFTISRDNAKNTVYLQMNSLKPEDTAVYYCAATVDYSGTLTAARGREDYDDWGQGIQVTVSSAAAHHHHHHHH",
+                    "modifications": []
+                }
+            },
+            {
+                "proteinChain": {
+                    "count": 1,
+                    "sequence": "NITNLCPFGEVFNATRFASVYAWNRKRISNCVADYSFLYNSASFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTGCVIAWNSNNLDSKVGGNYNYLYRLFRKSNLKPFERDISTEIYQAGSTPCNGVEGFNCYFPLQSYGFQPTNGVGYQPYRVVVLSFELLHAPATVCGPK",
+                    "modifications": []
+                }
+            }
+        ]
+    }
+]
+
