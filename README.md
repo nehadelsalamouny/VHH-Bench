@@ -91,22 +91,14 @@ bash AF3/extended/seed1/evaluate_AF3.sh
 
 The evaluation directory is organised by:
 
-Prediction method
-Structural category
-all_dataset
-extended
-kinked
+Prediction method and Structural category (all_dataset, extended, kinked)
 
 **05_analysis_plots**
 
 Contains scripts and outputs used to analyse benchmarking results and generate figures.
 
 Analysis includes:
-DockQ
-ipTM
-RMSD
-CDR3 analysis
-Publication-ready plots 
+DockQ, ipTM, RMSD, CDR3 analysis and Publication-ready plots 
 
 
 
