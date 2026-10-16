@@ -10,7 +10,7 @@ VHH-Bench is an extensible and reproducible benchmark framework designed for eva
 
 **Prerequisites**
 
-Python 3.9 or later
+• Python 3.9 or later
 
 
 **Dependencies**
@@ -85,7 +85,33 @@ Analysis includes:
 DockQ, ipTM, RMSD, CDR3 analysis and Publication-ready plots 
 
 
+**Acknowledgements**
 
+VHH-Bench makes use of:
+
+•	SAbDab
+
+•	AlphaFold3
+
+•	Boltz-2
+
+•	Chai-1
+
+•	HelixFold3
+
+•	Protenix-v2
+
+•	DockQ
+
+•	MDAnalysis
+
+•	PyMOL
+
+•	Python
+
+
+**Citation**
+If you use VHH-Bench in your research, please cite:
 
 
 
