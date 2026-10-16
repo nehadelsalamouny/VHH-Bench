@@ -1,0 +1,11 @@
+DockQ Complete Benchmark Summary
+================================
+
+Total structures evaluated: 24
+
+Failed (<0.23): 11 (45.8%)
+Acceptable (0.23-0.49): 3 (12.5%)
+Medium (0.49-0.80): 6 (25.0%)
+High (≥0.80): 4 (16.7%)
+
+Acceptable+ (≥0.23): 13 (54.2%)

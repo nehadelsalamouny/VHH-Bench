@@ -1,0 +1,7 @@
+Total structures: 120
+
+Failed (<0.23): 59 (49.2%)
+Acceptable (0.23-0.49): 14 (11.7%)
+Medium (0.49-0.80): 30 (25.0%)
+High (≥0.80): 17 (14.2%)
+Acceptable+ (≥0.23): 61 (50.8%)

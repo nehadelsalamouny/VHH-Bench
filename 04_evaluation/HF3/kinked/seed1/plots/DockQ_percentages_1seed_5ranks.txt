@@ -1,0 +1,11 @@
+DockQ Performance Summary
+========================
+
+Total structures: 285
+
+Failed (<0.23): 209 (73.3%)
+Acceptable (0.23-0.49): 16 (5.6%)
+Medium (0.49-0.80): 34 (11.9%)
+High (≥0.80): 26 (9.1%)
+
+Acceptable+ (≥0.23): 76 (26.7%)

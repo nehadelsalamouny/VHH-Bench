@@ -1,0 +1,6 @@
+AF3: mean = 0.326, std = 0.358
+Boltz-2: mean = 0.174, std = 0.253
+Chai-1: mean = 0.245, std = 0.303
+ESMFold2: mean = 0.323, std = 0.372
+HF3: mean = 0.213, std = 0.301
+Protenix-v2: mean = 0.321, std = 0.344

@@ -1,0 +1,9 @@
+DockQ Rank1 Percentages
+=======================
+
+Total structures: 57
+Failed: 40 (70.2%)
+Acceptable: 6 (10.5%)
+Medium: 5 (8.8%)
+High: 6 (10.5%)
+Acceptable+: 17 (29.8%)
