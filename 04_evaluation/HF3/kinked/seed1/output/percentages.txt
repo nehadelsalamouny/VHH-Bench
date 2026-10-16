@@ -1,0 +1,14 @@
+DockQ Rank-1 Statistics (All Seeds)
+===================================
+
+Total structures:      285
+
+Failed (<=0.23): 211 (74.0%)
+
+Acceptable (0.23-0.49): 13 (4.6%)
+
+Medium (0.49-0.80): 38 (13.3%)
+
+High (>0.80): 23 (8.1%)
+
+Acceptable+ (>0.23): 74 (26.0%)

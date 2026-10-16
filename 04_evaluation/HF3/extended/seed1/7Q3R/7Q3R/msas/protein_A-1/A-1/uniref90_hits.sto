@@ -1,0 +1,1020 @@
+# STOCKHOLM 1.0
+
+#=GS UniRef90_UPI00211D161C/13-210  DE [subseq from] Spike protein S1,Spike protein S1 n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI00211D161C
+#=GS UniRef90_UPI00211D161C/232-429 DE [subseq from] Spike protein S1,Spike protein S1 n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI00211D161C
+#=GS UniRef90_UPI0022F37D1D/26-223  DE [subseq from] Spike protein S1 n=2 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI0022F37D1D
+#=GS UniRef90_UPI0015882A50/13-210  DE [subseq from] Spike protein S1 n=3 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI0015882A50
+#=GS UniRef90_UPI00255C27E0/13-210  DE [subseq from] Spike protein S1 n=39 Tax=Sarbecovirus TaxID=2509511 RepID=UPI00255C27E0
+#=GS UniRef90_UPI001955F526/21-218  DE [subseq from] Spike glycoprotein, Envelope glycoprotein fusion n=14 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI001955F526
+#=GS UniRef90_UPI00336AED40/57-254  DE [subseq from] Signal peptide, Spike protein S1 n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI00336AED40
+#=GS UniRef90_UPI0025812038/13-210  DE [subseq from] Spike protein S1 n=31 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI0025812038
+#=GS UniRef90_UPI00293DA1F0/11-208  DE [subseq from] Spike glycoprotein n=68 Tax=root TaxID=1 RepID=UPI00293DA1F0
+#=GS UniRef90_A0A8K2ACR3/27-224     DE [subseq from] Nuclear export protein n=243 Tax=Influenza A virus TaxID=11320 RepID=A0A8K2ACR3_9INFA
+#=GS UniRef90_UPI0025811FE7/52-249  DE [subseq from] Spike protein S1 n=15 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI0025811FE7
+#=GS UniRef90_UPI0026F37D2B/316-513 DE [subseq from] Spike glycoprotein n=81 Tax=root TaxID=1 RepID=UPI0026F37D2B
+#=GS UniRef90_UPI0020779C43/319-516 DE [subseq from] Spike glycoprotein n=3 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI0020779C43
+#=GS UniRef90_A0A8B6RMK6/193-390    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RMK6_SARS2
+#=GS UniRef90_A0A8B6RKS7/220-417    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RKS7_SARS2
+#=GS UniRef90_A0A7T6Y5W2/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A7T6Y5W2_SARS2
+#=GS UniRef90_UPI001BCA67C2/322-519 DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI001BCA67C2
+#=GS UniRef90_UPI001BCA67D1/322-519 DE [subseq from] Spike glycoprotein n=2 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI001BCA67D1
+#=GS UniRef90_UPI00145118D4/331-528 DE [subseq from] Spike glycoprotein n=4 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI00145118D4
+#=GS UniRef90_UPI003467EE6B/333-530 DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI003467EE6B
+#=GS UniRef90_A0A6H1PJZ3/331-528    DE [subseq from] Spike glycoprotein n=1091 Tax=root TaxID=1 RepID=A0A6H1PJZ3_SARS2
+#=GS UniRef90_P0DTC2/331-528        DE [subseq from] Spike glycoprotein n=28 Tax=root TaxID=1 RepID=SPIKE_SARS2
+#=GS UniRef90_UPI001E6A10F8/331-528 DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI001E6A10F8
+#=GS UniRef90_A0A8B6RCH8/297-494    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RCH8_SARS2
+#=GS UniRef90_A0A8B6RKJ3/295-492    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RKJ3_SARS2
+#=GS UniRef90_A0A8B1JWX0/289-486    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JWX0_SARS2
+#=GS UniRef90_A0A8B6RG66/295-492    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RG66_SARS2
+#=GS UniRef90_A0A8B1J577/331-528    DE [subseq from] Spike glycoprotein n=242 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1J577_SARS2
+#=GS UniRef90_A0A8B6RG42/297-494    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RG42_SARS2
+#=GS UniRef90_A0A8B1JYH7/295-492    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JYH7_SARS2
+#=GS UniRef90_A0A8B1K2L0/289-486    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K2L0_SARS2
+#=GS UniRef90_A0A8B1K183/297-494    DE [subseq from] Surface glycoprotein (Fragment) n=2 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K183_SARS2
+#=GS UniRef90_A0A8B1JRK7/297-494    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JRK7_SARS2
+#=GS UniRef90_A0A8B1JC19/331-528    DE [subseq from] Surface glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JC19_SARS2
+#=GS UniRef90_A0A8B1KJJ3/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1KJJ3_SARS2
+#=GS UniRef90_A0A8B1JRT4/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JRT4_SARS2
+#=GS UniRef90_A0A8B6RC36/220-417    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RC36_SARS2
+#=GS UniRef90_A0A895ZLB7/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A895ZLB7_SARS2
+#=GS UniRef90_A0A8B1JCD7/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JCD7_SARS2
+#=GS UniRef90_A0A8B6RJ46/331-528    DE [subseq from] Surface glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RJ46_SARS2
+#=GS UniRef90_A0A8B1K1F5/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K1F5_SARS2
+#=GS UniRef90_A0A8B1J9I8/331-528    DE [subseq from] Surface glycoprotein n=3 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1J9I8_SARS2
+#=GS UniRef90_A0A8B1JVJ8/327-524    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JVJ8_SARS2
+#=GS UniRef90_A0A8B1JIJ6/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JIJ6_SARS2
+#=GS UniRef90_A0A8B1J2D2/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1J2D2_SARS2
+#=GS UniRef90_A0A8B6RBZ4/331-528    DE [subseq from] Surface glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RBZ4_SARS2
+#=GS UniRef90_A0A8B1K7P4/289-486    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K7P4_SARS2
+#=GS UniRef90_A0A8B6RKV3/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RKV3_SARS2
+#=GS UniRef90_A0A8B6RIX4/331-528    DE [subseq from] Spike glycoprotein n=3 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RIX4_SARS2
+#=GS UniRef90_A0A8B1K1D9/331-528    DE [subseq from] Spike glycoprotein n=31 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K1D9_SARS2
+#=GS UniRef90_A0A8B1KBF4/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1KBF4_SARS2
+#=GS UniRef90_UPI0029529614/1-194   DE [subseq from] Spike protein S1 n=14 Tax=root TaxID=1 RepID=UPI0029529614
+#=GS UniRef90_A0A8B1JBT4/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JBT4_SARS2
+#=GS UniRef90_A0A8B1K4Z6/193-390    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K4Z6_SARS2
+#=GS UniRef90_A0A8B1KW52/186-383    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1KW52_SARS2
+#=GS UniRef90_UPI001BCA67B8/322-519 DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI001BCA67B8
+#=GS UniRef90_A0A8B1JXP4/320-517    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JXP4_SARS2
+#=GS UniRef90_A0A8B1K862/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K862_SARS2
+#=GS UniRef90_A0A8B6RFS2/321-518    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RFS2_SARS2
+#=GS UniRef90_A0A8B6RFC8/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RFC8_SARS2
+#=GS UniRef90_A0A8B1JPN3/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JPN3_SARS2
+#=GS UniRef90_A0A8B1K6C7/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K6C7_SARS2
+#=GS UniRef90_A0A8B6RFG4/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RFG4_SARS2
+#=GS UniRef90_A0A8B1JYU6/331-528    DE [subseq from] Spike glycoprotein n=2 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JYU6_SARS2
+#=GS UniRef90_A0A8B1K2U2/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K2U2_SARS2
+#=GS UniRef90_A0A8B1JR30/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JR30_SARS2
+#=GS UniRef90_A0A8B6RLA3/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RLA3_SARS2
+#=GS UniRef90_A0A8B6RAJ0/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RAJ0_SARS2
+#=GS UniRef90_A0A8B1JYN1/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JYN1_SARS2
+#=GS UniRef90_A0A8B1JQS4/331-528    DE [subseq from] Spike glycoprotein n=3 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JQS4_SARS2
+#=GS UniRef90_A0A8B1XVY9/331-528    DE [subseq from] Spike glycoprotein n=4 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1XVY9_SARS2
+#=GS UniRef90_A0A899K156/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A899K156_SARS2
+#=GS UniRef90_A0A8A6U9B3/331-528    DE [subseq from] Spike glycoprotein n=3 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8A6U9B3_SARS2
+#=GS UniRef90_A0A8B6RAM8/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RAM8_SARS2
+#=GS UniRef90_A0A8B6RF20/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RF20_SARS2
+#=GS UniRef90_A0A8B6RW86/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RW86_SARS2
+#=GS UniRef90_A0A8B1K0R6/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K0R6_SARS2
+#=GS UniRef90_A0A8B6RCA3/295-492    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RCA3_SARS2
+#=GS UniRef90_A0A8B1JX30/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JX30_SARS2
+#=GS UniRef90_A0A8B1K0J3/289-486    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K0J3_SARS2
+#=GS UniRef90_A0A8B1JFC9/331-528    DE [subseq from] Spike glycoprotein n=2 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JFC9_SARS2
+#=GS UniRef90_A0A8B1K719/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K719_SARS2
+#=GS UniRef90_A0A8B6RBS0/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RBS0_SARS2
+#=GS UniRef90_A0A8B1JR87/331-528    DE [subseq from] Spike glycoprotein n=7 Tax=Sarbecovirus TaxID=2509511 RepID=A0A8B1JR87_SARS2
+#=GS UniRef90_A0A8B1K9W0/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K9W0_SARS2
+#=GS UniRef90_A0A7U3ED35/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A7U3ED35_SARS2
+#=GS UniRef90_A0A899K6H7/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A899K6H7_SARS2
+#=GS UniRef90_A0A8B1J1B8/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1J1B8_SARS2
+#=GS UniRef90_A0A8B1J9P3/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1J9P3_SARS2
+#=GS UniRef90_A0A7U3ELV3/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A7U3ELV3_SARS2
+#=GS UniRef90_A0A8A5RU68/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8A5RU68_SARS2
+#=GS UniRef90_A0A899K969/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A899K969_SARS2
+#=GS UniRef90_A0A7U3HEP0/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A7U3HEP0_SARS2
+#=GS UniRef90_A0A7U3ED58/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A7U3ED58_SARS2
+#=GS UniRef90_A0A8B6RKD5/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=12 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RKD5_SARS2
+#=GS UniRef90_A0A8B6RMB3/289-486    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RMB3_SARS2
+#=GS UniRef90_A0A8B6RKC6/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RKC6_SARS2
+#=GS UniRef90_A0A8B6RAI1/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RAI1_SARS2
+#=GS UniRef90_A0A8B6RF44/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RF44_SARS2
+#=GS UniRef90_A0A8B6RKG8/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RKG8_SARS2
+#=GS UniRef90_A0A8B6RK62/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RK62_SARS2
+#=GS UniRef90_A0A8B6RKY6/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RKY6_SARS2
+#=GS UniRef90_A0A8B6RK54/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RK54_SARS2
+#=GS UniRef90_A0A8B1J9D9/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1J9D9_SARS2
+#=GS UniRef90_A0A8B1K5D7/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K5D7_SARS2
+#=GS UniRef90_UPI00211D1607/36-233  DE [subseq from] Spike protein S1 n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI00211D1607
+#=GS UniRef90_UPI001BCA674B/322-519 DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI001BCA674B
+#=GS UniRef90_UPI0020CA2712/322-519 DE [subseq from] Spike glycoprotein n=3 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI0020CA2712
+#=GS UniRef90_UPI001CEE08AB/27-220  DE [subseq from] Spike protein S1 n=7 Tax=Sarbecovirus TaxID=2509511 RepID=UPI001CEE08AB
+#=GS UniRef90_A0A899JFB4/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A899JFB4_SARS2
+#=GS UniRef90_A0A7U3ELM2/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A7U3ELM2_SARS2
+#=GS UniRef90_A0A8B6RKL0/289-486    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RKL0_SARS2
+#=GS UniRef90_A0A8B1K2S5/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K2S5_SARS2
+#=GS UniRef90_A0A8B6RX85/331-528    DE [subseq from] Surface glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RX85_SARS2
+#=GS UniRef90_UPI001E1E2432/61-258  DE [subseq from] Surface glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI001E1E2432
+#=GS UniRef90_A0AA49X976/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Horseshoe bat sarbecovirus TaxID=3068538 RepID=A0AA49X976_9BETC
+#=GS UniRef90_A0A8B6RJ24/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=2 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RJ24_SARS2
+#=GS UniRef90_A0A8B1K347/321-518    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K347_SARS2
+#=GS UniRef90_A0A8B6RKK2/289-486    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RKK2_SARS2
+#=GS UniRef90_A0ACD6BAE9/327-524    DE [subseq from] Surface glycoprotein n=4 Tax=Pangolin coronavirus TaxID=2708335 RepID=A0ACD6BAE9_9BETC
+#=GS UniRef90_A0AAN0NP16/327-524    DE [subseq from] Spike glycoprotein n=8 Tax=Coronaviridae TaxID=11118 RepID=A0AAN0NP16_9NIDO
+#=GS UniRef90_UPI00398D6A38/331-528 DE [subseq from] Spike glycoprotein n=1 Tax=Coronavirinae TaxID=693995 RepID=UPI00398D6A38
+#=GS UniRef90_A0A8E4SE09/361-550    DE [subseq from] Non-structural protein 3 n=2 Tax=Rotavirus A TaxID=28875 RepID=A0A8E4SE09_9REOV
+#=GS UniRef90_A0A8B6RJ38/326-523    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RJ38_SARS2
+#=GS UniRef90_A0A8B6RK83/186-383    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RK83_SARS2
+#=GS UniRef90_A0A8B6RMU6/96-293     DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RMU6_SARS2
+#=GS UniRef90_A0A7U3HF24/316-504    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A7U3HF24_SARS2
+#=GS UniRef90_A0A8B6RK40/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RK40_SARS2
+#=GS UniRef90_A0A8B1JFM7/322-519    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JFM7_SARS2
+#=GS UniRef90_A0A8B1JFX3/297-494    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JFX3_SARS2
+#=GS UniRef90_A0A8B1JZI2/196-393    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JZI2_SARS2
+#=GS UniRef90_A0A8B1K0W8/186-383    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K0W8_SARS2
+#=GS UniRef90_UPI002DDDBDC2/13-210  DE [subseq from] Spike protein S1 n=5 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI002DDDBDC2
+#=GS UniRef90_A0A8B6RKG0/186-383    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RKG0_SARS2
+#=GS UniRef90_A0A8B6RNE7/289-486    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RNE7_SARS2
+#=GS UniRef90_A0A8B6RJ60/297-494    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RJ60_SARS2
+#=GS UniRef90_UPI0032D6DB67/316-513 DE [subseq from] Spike glycoprotein,Fibritin n=2 Tax=Viruses TaxID=10239 RepID=UPI0032D6DB67
+#=GS UniRef90_UPI001F5FF543/1-195   DE [subseq from] Spike protein S1 n=69 Tax=root TaxID=1 RepID=UPI001F5FF543
+#=GS UniRef90_UPI0032E9392F/1-198   DE [subseq from] Spike glycoprotein n=8 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI0032E9392F
+#=GS UniRef90_A0A8B1JAR8/346-528    DE [subseq from] Surface glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JAR8_SARS2
+#=GS UniRef90_A0A8B1J9J2/347-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1J9J2_SARS2
+#=GS UniRef90_A0A8B1K082/296-493    DE [subseq from] Surface glycoprotein (Fragment) n=4 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K082_SARS2
+#=GS UniRef90_A0A8B6RBQ2/297-494    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RBQ2_SARS2
+#=GS UniRef90_UPI00211D15FD/15-212  DE [subseq from] Spike glycoprotein n=4 Tax=Bat coronavirus RaTG13 TaxID=2709072 RepID=UPI00211D15FD
+#=GS UniRef90_A0A8B1JMH8/193-390    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JMH8_SARS2
+#=GS UniRef90_A0A8B1J2N1/347-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1J2N1_SARS2
+#=GS UniRef90_A0A8B1JCD4/347-528    DE [subseq from] Surface glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JCD4_SARS2
+#=GS UniRef90_A0A8B6RF32/297-494    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RF32_SARS2
+#=GS UniRef90_A0A8B6RLX9/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RLX9_SARS2
+#=GS UniRef90_UPI00315B4064/13-210  DE [subseq from] Spike protein S1 n=10 Tax=Betacoronavirus pandemicum TaxID=3418604 RepID=UPI00315B4064
+#=GS UniRef90_UPI0020779CA7/1-192   DE [subseq from] Spike protein S1 n=21 Tax=root TaxID=1 RepID=UPI0020779CA7
+#=GS UniRef90_A0A8B1JB18/347-528    DE [subseq from] Surface glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JB18_SARS2
+#=GS UniRef90_UPI0022EC9ABD/1-196   DE [subseq from] Spike protein S1 n=6 Tax=root TaxID=1 RepID=UPI0022EC9ABD
+#=GS UniRef90_A0A8B1J9K4/348-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1J9K4_SARS2
+#=GS UniRef90_UPI0028CBC139/22-219  DE [subseq from] Spike protein S1 n=2 Tax=Betacoronavirus pandemicum TaxID=3418604 RepID=UPI0028CBC139
+#=GS UniRef90_A0ABF7PLN6/331-528    DE [subseq from] Spike glycoprotein n=4 Tax=Bat coronavirus RaTG13 TaxID=2709072 RepID=A0ABF7PLN6_SARS
+#=GS UniRef90_A0A8B6RM71/297-494    DE [subseq from] Surface glycoprotein (Fragment) n=3 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RM71_SARS2
+#=GS UniRef90_A0A8B6RK76/291-488    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RK76_SARS2
+#=GS UniRef90_UPI0022EC9AD4/33-229  DE [subseq from] RshSTT182/200 coronavirus receptor binding domain insert2 mutant n=3 Tax=Rhinolophus shameli TaxID=608708 RepID=UPI0022EC9AD4
+#=GS UniRef90_A0A8B6RLM8/321-518    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RLM8_SARS2
+#=GS UniRef90_A0A8B6RW62/323-520    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RW62_SARS2
+#=GS UniRef90_A0A8B1JF55/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JF55_SARS2
+#=GS UniRef90_UPI00311CE1F7/32-229  DE [subseq from] Spike protein S1 n=4 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI00311CE1F7
+#=GS UniRef90_A0A8B6RJ74/296-493    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RJ74_SARS2
+#=GS UniRef90_UPI003704D4B3/23-220  DE [subseq from] SARS-CoV-2 XBB.1.5 RBD n=7 Tax=Betacoronavirus pandemicum TaxID=3418604 RepID=UPI003704D4B3
+#=GS UniRef90_UPI0022EC9A0F/13-209  DE [subseq from] Spike protein S1 n=3 Tax=Pangolin coronavirus TaxID=2708335 RepID=UPI0022EC9A0F
+#=GS UniRef90_UPI0039A3F8B7/338-535 DE [subseq from] Spike glycoprotein,Fibritin,Expression Tag n=1 Tax=synthetic construct TaxID=32630 RepID=UPI0039A3F8B7
+#=GS UniRef90_A0A7U3HFL6/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A7U3HFL6_SARS2
+#=GS UniRef90_UPI002A6B905C/328-525 DE [subseq from] Spike glycoprotein,Spike glycoprotein,Spike glycoprotein,Fusion protein n=16 Tax=Betacoronavirus pandemicum TaxID=3418604 RepID=UPI002A6B905C
+#=GS UniRef90_A0ACD6BAD7/331-528    DE [subseq from] Spike protein n=2 Tax=Pangolin coronavirus TaxID=2708335 RepID=A0ACD6BAD7_9BETC
+#=GS UniRef90_A0A8B6RJG7/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RJG7_SARS2
+#=GS UniRef90_A0A8B6RC77/289-486    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RC77_SARS2
+#=GS UniRef90_UPI002AC9F1EF/3-187   DE [subseq from] Spike protein S1 n=2 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI002AC9F1EF
+#=GS UniRef90_A0A8B6RKH7/331-528    DE [subseq from] Surface glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RKH7_SARS2
+#=GS UniRef90_A0AA50AG07/318-510    DE [subseq from] Spike glycoprotein n=2 Tax=Horseshoe bat sarbecovirus TaxID=3068538 RepID=A0AA50AG07_9BETC
+#=GS UniRef90_A0A8B1K6V9/320-517    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K6V9_SARS2
+#=GS UniRef90_A0A8B6RVC4/331-512    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RVC4_SARS2
+#=GS UniRef90_A0A8B1JFX2/297-494    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JFX2_SARS2
+#=GS UniRef90_UPI00398D692C/1-190   DE [subseq from] Spike protein S1 n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=UPI00398D692C
+#=GS UniRef90_A0A8B1JF74/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JF74_SARS2
+#=GS UniRef90_A0A8B1K570/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=3 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K570_SARS2
+#=GS UniRef90_A0A8B1JF58/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JF58_SARS2
+#=GS UniRef90_A0A8B1J0W4/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1J0W4_SARS2
+#=GS UniRef90_A0A8B6RJ10/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RJ10_SARS2
+#=GS UniRef90_A0A8B1JYJ0/331-528    DE [subseq from] Surface glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JYJ0_SARS2
+#=GS UniRef90_A0A8B1K4L8/330-527    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K4L8_SARS2
+#=GS UniRef90_UPI0020005B78/13-209  DE [subseq from] Spike protein S1 n=2 Tax=Sarbecovirus TaxID=2509511 RepID=UPI0020005B78
+#=GS UniRef90_A0A8B1JFY8/331-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JFY8_SARS2
+#=GS UniRef90_A0A8B6RXD8/289-486    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RXD8_SARS2
+#=GS UniRef90_A0A2D1PXA9/318-514    DE [subseq from] Spike glycoprotein n=5 Tax=Orthocoronavirinae TaxID=2501931 RepID=A0A2D1PXA9_SARS
+#=GS UniRef90_U5WI05/319-515        DE [subseq from] Spike glycoprotein n=28 Tax=Viruses TaxID=10239 RepID=U5WI05_SARS
+#=GS UniRef90_UPI00274030E3/307-503 DE [subseq from] Spike glycoprotein,Fibritin n=1 Tax=Severe acute respiratory syndrome coronavirus TaxID=2901879 RepID=UPI00274030E3
+#=GS UniRef90_A0A8B1K2S7/289-486    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1K2S7_SARS2
+#=GS UniRef90_A0A023PUW9/322-518    DE [subseq from] Spike glycoprotein n=2 Tax=Rhinolophus affinis coronavirus TaxID=1487703 RepID=A0A023PUW9_SARS
+#=GS UniRef90_UPI00186BC2FB/13-209  DE [subseq from] Spike glycoprotein n=11 Tax=Severe acute respiratory syndrome coronavirus TaxID=694009 RepID=UPI00186BC2FB
+#=GS UniRef90_A0AA49X3X7/320-515    DE [subseq from] Spike glycoprotein n=2 Tax=Horseshoe bat sarbecovirus TaxID=3068538 RepID=A0AA49X3X7_9BETC
+#=GS UniRef90_P59594/318-514        DE [subseq from] Spike glycoprotein n=161 Tax=Viruses TaxID=10239 RepID=SPIKE_SARS
+#=GS UniRef90_UPI0032E938E3/13-209  DE [subseq from] BtKY72 n=2 Tax=Sarbecovirus TaxID=2509511 RepID=UPI0032E938E3
+#=GS UniRef90_A0A8B6RLJ5/289-486    DE [subseq from] Surface glycoprotein (Fragment) n=2 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RLJ5_SARS2
+#=GS UniRef90_A0A8B1JHI8/308-505    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JHI8_SARS2
+#=GS UniRef90_A0A7G6UAJ9/322-518    DE [subseq from] Spike glycoprotein n=3 Tax=Severe acute respiratory syndrome coronavirus TaxID=694009 RepID=A0A7G6UAJ9_BCHK3
+#=GS UniRef90_Q1KVI3/318-514        DE [subseq from] S1 protein (Fragment) n=1 Tax=SARS coronavirus GD322 TaxID=291613 RepID=Q1KVI3_SARS
+#=GS UniRef90_A0A8B6RC45/296-493    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RC45_SARS2
+#=GS UniRef90_A0A8B6RCC7/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RCC7_SARS2
+#=GS UniRef90_A0A3Q8AKM0/321-517    DE [subseq from] Spike glycoprotein n=5 Tax=Coronaviridae TaxID=11118 RepID=A0A3Q8AKM0_SARS
+#=GS UniRef90_A0A7U3DWG5/331-481    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A7U3DWG5_SARS2
+#=GS UniRef90_A0A8B1KVF5/297-494    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1KVF5_SARS2
+#=GS UniRef90_A0A8B6RC94/297-494    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RC94_SARS2
+#=GS UniRef90_A0A8B1JFP1/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JFP1_SARS2
+#=GS UniRef90_UPI0029C10071/13-206  DE [subseq from] Spike protein S1 n=1 Tax=Betacoronavirus sp. TaxID=1928434 RepID=UPI0029C10071
+#=GS UniRef90_A0A7R6WCE7/305-493    DE [subseq from] Spike glycoprotein n=5 Tax=root TaxID=1 RepID=A0A7R6WCE7_SARS
+#=GS UniRef90_A0A8B6R9Y5/297-327    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6R9Y5_SARS2
+#=GS UniRef90_A0A8B6R9Y5/377-494    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6R9Y5_SARS2
+#=GS UniRef90_A0ACD6BAG6/321-514    DE [subseq from] Surface glycoprotein n=1 Tax=Betacoronavirus sp. RsYN04 TaxID=2872808 RepID=A0ACD6BAG6_9BETC
+#=GS UniRef90_UPI003F8D8F75/321-515 DE [subseq from] Spike glycoprotein n=1 Tax=Bat SARS-like coronavirus Khosta-1 TaxID=2836123 RepID=UPI003F8D8F75
+#=GS UniRef90_A0ACD6B8H8/322-515    DE [subseq from] Spike protein n=2 Tax=Bat coronavirus BM48-31/BGR/2008 TaxID=864596 RepID=A0ACD6B8H8_9BETC
+#=GS UniRef90_A0A8B6RLY8/327-524    DE [subseq from] Surface glycoprotein (Fragment) n=2 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RLY8_SARS2
+#=GS UniRef90_UPI0040535BEE/306-500 DE [subseq from] RhGB07 Spike- T4 foldon fusion protein n=1 Tax=Sarbecovirus sp. RhGB07 TaxID=3030542 RepID=UPI0040535BEE
+#=GS UniRef90_UPI003F8D8FB6/306-500 DE [subseq from] Spike glycoprotein n=2 Tax=Bat SARS-like coronavirus Khosta-2 TaxID=2836124 RepID=UPI003F8D8FB6
+#=GS UniRef90_UPI0001793A48/1-179   DE [subseq from] Spike glycoprotein n=2 Tax=Severe acute respiratory syndrome coronavirus TaxID=694009 RepID=UPI0001793A48
+#=GS UniRef90_A0A8B1JFT0/365-494    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JFT0_SARS2
+#=GS UniRef90_A0A8B6RJP7/387-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RJP7_SARS2
+#=GS UniRef90_A0A8B6RC54/297-321    DE [subseq from] Surface glycoprotein (Fragment) n=2 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RC54_SARS2
+#=GS UniRef90_A0A8B6RC54/380-494    DE [subseq from] Surface glycoprotein (Fragment) n=2 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RC54_SARS2
+#=GS UniRef90_A0A8B6RA18/297-321    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RA18_SARS2
+#=GS UniRef90_A0A8B6RA18/380-494    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RA18_SARS2
+#=GS UniRef90_A0A8B1JFS0/297-321    DE [subseq from] Surface glycoprotein (Fragment) n=2 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JFS0_SARS2
+#=GS UniRef90_A0A8B1JFS0/380-494    DE [subseq from] Surface glycoprotein (Fragment) n=2 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JFS0_SARS2
+#=GS UniRef90_A0A8B1JM53/289-313    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JM53_SARS2
+#=GS UniRef90_A0A8B1JM53/372-486    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JM53_SARS2
+#=GS UniRef90_A0A8B6REY4/331-461    DE [subseq from] Surface glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6REY4_SARS2
+#=GS UniRef90_A0A0P0INJ4/325-518    DE [subseq from] Spike glycoprotein n=1 Tax=SARS-like coronavirus BatCoV/BB9904/BGR/2008 TaxID=1737344 RepID=A0A0P0INJ4_9BETC
+#=GS UniRef90_A0A8B1KE13/346-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1KE13_SARS2
+#=GS UniRef90_A0A7U3HCW3/331-418    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A7U3HCW3_SARS2
+#=GS UniRef90_A0A7U3HCW3/478-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A7U3HCW3_SARS2
+#=GS UniRef90_U5WLI7/1-166          DE [subseq from] Spike protein (Fragment) n=3 Tax=unclassified Coronavirinae TaxID=2664420 RepID=U5WLI7_9NIDO
+#=GS UniRef90_A0A8B1L7Y7/380-494    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1L7Y7_SARS2
+#=GS UniRef90_A0A8B1JFS5/372-486    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JFS5_SARS2
+#=GS UniRef90_A0A8B1JM59/380-494    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JM59_SARS2
+#=GS UniRef90_A0A8B6RF08/380-494    DE [subseq from] Surface glycoprotein (Fragment) n=6 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RF08_SARS2
+#=GS UniRef90_A0A8B1JF17/414-528    DE [subseq from] Surface glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JF17_SARS2
+#=GS UniRef90_A0A8B1JPB5/380-494    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JPB5_SARS2
+#=GS UniRef90_A0A8B1JA98/412-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JA98_SARS2
+#=GS UniRef90_A0A8B1KWW1/279-393    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1KWW1_SARS2
+#=GS UniRef90_A0AA49X5P5/322-501    DE [subseq from] Spike glycoprotein n=6 Tax=Betacoronavirus TaxID=694002 RepID=A0AA49X5P5_9BETC
+#=GS UniRef90_A0AA50AFB2/47-226     DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Horseshoe bat sarbecovirus TaxID=3068538 RepID=A0AA50AFB2_9BETC
+#=GS UniRef90_A0A8B6RC62/296-493    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RC62_SARS2
+#=GS UniRef90_A0A0U1WHI2/321-500    DE [subseq from] Spike glycoprotein n=1 Tax=BtRs-BetaCoV/HuB2013 TaxID=1503302 RepID=A0A0U1WHI2_SARS
+#=GS UniRef90_A0AA50AD64/322-500    DE [subseq from] Surface glycoprotein n=1 Tax=Horseshoe bat sarbecovirus TaxID=3068538 RepID=A0AA50AD64_9BETC
+#=GS UniRef90_A0A7U3EEN8/331-446    DE [subseq from] Spike glycoprotein n=2 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A7U3EEN8_SARS2
+#=GS UniRef90_Q3I5J5/322-500        DE [subseq from] Spike glycoprotein n=38 Tax=Coronaviridae TaxID=11118 RepID=SPIKE_BCRP3
+#=GS UniRef90_A0A8B6RX22/297-412    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RX22_SARS2
+#=GS UniRef90_A0A7U3HDM5/331-446    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A7U3HDM5_SARS2
+#=GS UniRef90_A0A7U3EEK0/331-446    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A7U3EEK0_SARS2
+#=GS UniRef90_A0A7U3HEG2/331-445    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A7U3HEG2_SARS2
+#=GS UniRef90_A0A7U3HGG2/331-445    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A7U3HGG2_SARS2
+#=GS UniRef90_A0AA49X538/322-500    DE [subseq from] Spike glycoprotein n=1 Tax=Horseshoe bat sarbecovirus TaxID=3068538 RepID=A0AA49X538_9BETC
+#=GS UniRef90_A0A8B1JA42/419-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JA42_SARS2
+#=GS UniRef90_A0A8B1J124/419-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1J124_SARS2
+#=GS UniRef90_A0A8B1JCH4/419-528    DE [subseq from] Surface glycoprotein n=2 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JCH4_SARS2
+#=GS UniRef90_A0A8B1KR97/419-528    DE [subseq from] Surface glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1KR97_SARS2
+#=GS UniRef90_A0A8B1JBP8/419-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JBP8_SARS2
+#=GS UniRef90_A0A8B1J9H8/360-469    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1J9H8_SARS2
+#=GS UniRef90_A0A8B1LB85/419-528    DE [subseq from] Surface glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1LB85_SARS2
+#=GS UniRef90_A0A8B6RWD6/419-528    DE [subseq from] Surface glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RWD6_SARS2
+#=GS UniRef90_A0A8B1IWE7/379-488    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1IWE7_SARS2
+#=GS UniRef90_A0A8B6RWE2/419-528    DE [subseq from] Surface glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B6RWE2_SARS2
+#=GS UniRef90_A0A2R3SUW9/326-504    DE [subseq from] Spike glycoprotein n=2 Tax=Bat SARS-like coronavirus TaxID=1508227 RepID=A0A2R3SUW9_SARS
+#=GS UniRef90_A0A7U3DWM4/331-445    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A7U3DWM4_SARS2
+#=GS UniRef90_R9QTH3/322-500        DE [subseq from] Spike glycoprotein n=10 Tax=Coronaviridae TaxID=11118 RepID=R9QTH3_SARS
+#=GS UniRef90_A0ABF7PLQ0/331-446    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0ABF7PLQ0_SARS2
+#=GS UniRef90_A0AA50A7F2/317-495    DE [subseq from] Spike glycoprotein n=3 Tax=Betacoronavirus TaxID=694002 RepID=A0AA50A7F2_9BETC
+#=GS UniRef90_A0A8B1JCU8/419-528    DE [subseq from] Surface glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JCU8_SARS2
+#=GS UniRef90_A0A0U1WHH0/322-500    DE [subseq from] Spike glycoprotein n=6 Tax=Orthocoronavirinae TaxID=2501931 RepID=A0A0U1WHH0_SARS
+#=GS UniRef90_UPI003CE5C94C/1-175   DE [subseq from] Spike glycoprotein n=1 Tax=Bat coronavirus TaxID=1508220 RepID=UPI003CE5C94C
+#=GS UniRef90_A0A899KK42/420-528    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A899KK42_SARS2
+#=GS UniRef90_A0A8B1JCL6/1-109      DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JCL6_SARS2
+#=GS UniRef90_A0ACD6BAG0/310-488    DE [subseq from] Spike glycoprotein n=2 Tax=Sarbecovirus TaxID=2509511 RepID=A0ACD6BAG0_9BETC
+#=GS UniRef90_A0A0U1WJY8/314-492    DE [subseq from] Spike glycoprotein n=3 Tax=Orthocoronavirinae TaxID=2501931 RepID=A0A0U1WJY8_SARS
+#=GS UniRef90_A0A0K1Z054/322-500    DE [subseq from] Spike glycoprotein n=2 Tax=Severe acute respiratory syndrome coronavirus TaxID=694009 RepID=A0A0K1Z054_SARS
+#=GS UniRef90_A0A0U1UYX4/317-495    DE [subseq from] Spike glycoprotein n=7 Tax=Coronaviridae TaxID=11118 RepID=A0A0U1UYX4_SARS
+#=GS UniRef90_Q0Q484/322-500        DE [subseq from] Spike glycoprotein n=3 Tax=Betacoronavirus TaxID=694002 RepID=Q0Q484_SARS
+#=GS UniRef90_A0A8B1LAN5/319-516    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1LAN5_SARS2
+#=GS UniRef90_A0A8B1LC10/88-196     DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1LC10_SARS2
+#=GS UniRef90_A0A7U3RIT3/331-439    DE [subseq from] Spike glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A7U3RIT3_SARS2
+#=GS UniRef90_A0A8B1KSH1/331-439    DE [subseq from] Surface glycoprotein n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1KSH1_SARS2
+#=GS UniRef90_Q6SRF2/318-444        DE [subseq from] Spike glycoprotein (Fragment) n=4 Tax=SARS coronavirus TW TaxID=264370 RepID=Q6SRF2_SARS
+#=GS UniRef90_U5WHW8/1-149          DE [subseq from] Spike protein (Fragment) n=2 Tax=unclassified Coronavirinae TaxID=2664420 RepID=U5WHW8_9NIDO
+#=GS UniRef90_A0AA50ADQ1/242-413    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Horseshoe bat sarbecovirus TaxID=3068538 RepID=A0AA50ADQ1_9BETC
+#=GS UniRef90_A0A8B1JFQ9/297-321    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JFQ9_SARS2
+#=GS UniRef90_A0A8B1JFQ9/380-494    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JFQ9_SARS2
+#=GS UniRef90_Q5GDJ5/318-380        DE [subseq from] Spike glycoprotein n=1 Tax=SARS coronavirus GZ0403 TaxID=293321 RepID=Q5GDJ5_SARS
+#=GS UniRef90_Q5GDJ5/488-514        DE [subseq from] Spike glycoprotein n=1 Tax=SARS coronavirus GZ0403 TaxID=293321 RepID=Q5GDJ5_SARS
+#=GS UniRef90_A0A8B1JHD2/404-518    DE [subseq from] Surface glycoprotein (Fragment) n=1 Tax=Severe acute respiratory syndrome coronavirus 2 TaxID=2697049 RepID=A0A8B1JHD2_SARS2
+#=GS UniRef90_A0A7U3VI77/352-421    DE [subseq from] Spike glycoprotein n=1 Tax=Bat coronavirus RacCS271 TaxID=2801855 RepID=A0A7U3VI77_9BETC
+#=GS UniRef90_Q6QHB1/213-272        DE [subseq from] Spike glycoprotein (Fragment) n=2 Tax=Severe acute respiratory syndrome coronavirus TaxID=694009 RepID=Q6QHB1_SARS
+#=GS UniRef90_A0A7U3VI26/309-334    DE [subseq from] Spike glycoprotein n=1 Tax=Bat coronavirus RacCS253 TaxID=2801853 RepID=A0A7U3VI26_9BETC
+#=GS UniRef90_A0A7U3VI26/388-420    DE [subseq from] Spike glycoprotein n=1 Tax=Bat coronavirus RacCS253 TaxID=2801853 RepID=A0A7U3VI26_9BETC
+#=GS UniRef90_A0A7U3VI26/463-487    DE [subseq from] Spike glycoprotein n=1 Tax=Bat coronavirus RacCS253 TaxID=2801853 RepID=A0A7U3VI26_9BETC
+#=GS UniRef90_A0A088DJY6/355-466    DE [subseq from] Spike glycoprotein n=2 Tax=Orthocoronavirinae TaxID=2501931 RepID=A0A088DJY6_9BETC
+#=GS UniRef90_A0A7U3W0L8/310-340    DE [subseq from] Spike glycoprotein n=1 Tax=Bat coronavirus RacCS224 TaxID=2801852 RepID=A0A7U3W0L8_9BETC
+#=GS UniRef90_A0A7U3W0L8/409-488    DE [subseq from] Spike glycoprotein n=1 Tax=Bat coronavirus RacCS224 TaxID=2801852 RepID=A0A7U3W0L8_9BETC
+#=GS UniRef90_F1BYL9/372-462        DE [subseq from] Spike glycoprotein n=1 Tax=Zaria bat coronavirus TaxID=989337 RepID=F1BYL9_9BETC
+#=GS UniRef90_A0AA49EFF8/371-471    DE [subseq from] Spike glycoprotein n=2 Tax=unclassified Orthocoronavirinae TaxID=2730119 RepID=A0AA49EFF8_9NIDO
+#=GS UniRef90_A0A1B3Q5W5/377-468    DE [subseq from] Spike glycoprotein n=13 Tax=Orthocoronavirinae TaxID=2501931 RepID=A0A1B3Q5W5_9BETC
+#=GS UniRef90_E0ZN36/362-508        DE [subseq from] Spike glycoprotein n=3 Tax=Bat coronavirus HKU9 TaxID=694006 RepID=E0ZN36_BCHK9
+#=GS UniRef90_A3EXJ0/370-458        DE [subseq from] Spike glycoprotein n=1 Tax=Bat coronavirus HKU9-4 TaxID=424370 RepID=A3EXJ0_BCHK9
+#=GS UniRef90_A0AA49EH99/358-463    DE [subseq from] Spike protein n=2 Tax=unclassified Orthocoronavirinae TaxID=2730119 RepID=A0AA49EH99_9NIDO
+#=GS UniRef90_E0ZN60/368-458        DE [subseq from] Spike glycoprotein n=2 Tax=Bat coronavirus HKU9 TaxID=694006 RepID=E0ZN60_BCHK9
+#=GS UniRef90_A3EXH4/366-458        DE [subseq from] Spike glycoprotein n=1 Tax=Bat coronavirus HKU9-2 TaxID=424368 RepID=A3EXH4_BCHK9
+#=GS UniRef90_A0AB38ZDR9/372-459    DE [subseq from] Spike protein n=1 Tax=Eidolon bat coronavirus TaxID=2717680 RepID=A0AB38ZDR9_9NIDO
+#=GS UniRef90_UPI0008A09DF1/21-110  DE [subseq from] Spike glycoprotein n=1 Tax=Bat coronavirus HKU9 TaxID=694006 RepID=UPI0008A09DF1
+#=GS UniRef90_A0A2Z4EVK1/368-455    DE [subseq from] Spike glycoprotein n=1 Tax=Eidolon helvum bat coronavirus CMR704-P12 TaxID=2849735 RepID=A0A2Z4EVK1_9BETC
+#=GS UniRef90_UPI003AFB8265/38-159  DE [subseq from] BtHKU5-CoV-2-441 Spike RBD domain n=1 Tax=Bat coronavirus HKU5 TaxID=694008 RepID=UPI003AFB8265
+#=GS UniRef90_A0A0A7UZR7/332-440    DE [subseq from] Spike glycoprotein n=9 Tax=Coronaviridae TaxID=11118 RepID=A0A0A7UZR7_9BETC
+#=GS UniRef90_A0AB38ZDN1/372-458    DE [subseq from] Spike protein n=1 Tax=Eidolon bat coronavirus TaxID=2717680 RepID=A0AB38ZDN1_9NIDO
+#=GS UniRef90_F1DAZ9/374-466        DE [subseq from] Spike glycoprotein n=1 Tax=Rousettus bat coronavirus/Kenya/KY06/2006 TaxID=983925 RepID=F1DAZ9_9BETC
+#=GS UniRef90_A3EXG6/372-460        DE [subseq from] Spike glycoprotein n=1 Tax=Bat coronavirus HKU9 TaxID=694006 RepID=SPIKE_BCHK9
+#=GS UniRef90_A0A2P1M5J5/366-457    DE [subseq from] Spike glycoprotein n=1 Tax=Bat coronavirus HKU9 TaxID=694006 RepID=A0A2P1M5J5_BCHK9
+#=GS UniRef90_A0A2H4MZ26/332-439    DE [subseq from] Spike glycoprotein n=1 Tax=Rodent coronavirus TaxID=2050018 RepID=A0A2H4MZ26_9NIDO
+#=GS UniRef90_A0AA49EFE3/392-516    DE [subseq from] Spike glycoprotein n=1 Tax=Bat Coronavirus PaZJ10 TaxID=3018875 RepID=A0AA49EFE3_9NIDO
+#=GS UniRef90_F1DAZ1/364-454        DE [subseq from] Spike glycoprotein n=2 Tax=Coronaviridae TaxID=11118 RepID=F1DAZ1_9BETC
+#=GS UniRef90_UPI0039FDE1B1/35-203  DE [subseq from] Spike glycoprotein n=1 Tax=Bat coronavirus HKU5 TaxID=694008 RepID=UPI0039FDE1B1
+#=GS UniRef90_A0A2H4MXV6/331-438    DE [subseq from] Spike glycoprotein n=1 Tax=Myodes rufocanus vole coronavirus 2/JL2014 TaxID=2847997 RepID=A0A2H4MXV6_9BETC
+#=GS UniRef90_S5UK74/156-251        DE [subseq from] Spike protein (Fragment) n=6 Tax=Betacoronavirus 1 TaxID=694003 RepID=S5UK74_9BETC
+#=GS UniRef90_UPI000A276D54/14-171  DE [subseq from] Spike protein S1 n=1 Tax=Bat coronavirus HKU5 TaxID=694008 RepID=UPI000A276D54
+#=GS UniRef90_X2JHN8/341-433        DE [subseq from] Spike glycoprotein n=69 Tax=Embecovirus TaxID=2509481 RepID=X2JHN8_9BETC
+#=GS UniRef90_A0A2Z4KJM2/56-149     DE [subseq from] Spike glycoprotein (Fragment) n=4 Tax=Bovine coronavirus TaxID=11128 RepID=A0A2Z4KJM2_9BETC
+#=GS UniRef90_I4DEW6/353-446        DE [subseq from] Spike glycoprotein (Fragment) n=4 Tax=Human coronavirus OC43 TaxID=31631 RepID=I4DEW6_CVHOC
+#=GS UniRef90_M1PF06/5-93           DE [subseq from] Spike glycoprotein (Fragment) n=1 Tax=Human coronavirus OC43 TaxID=31631 RepID=M1PF06_CVHOC
+#=GS UniRef90_A0AA49ID61/392-515    DE [subseq from] Spike glycoprotein n=1 Tax=Bat Coronavirus PaGZ19 TaxID=3018872 RepID=A0AA49ID61_9NIDO
+#=GS UniRef90_Q9DXA9/25-118         DE [subseq from] Spike protein (Fragment) n=5 Tax=Bovine coronavirus TaxID=11128 RepID=Q9DXA9_9BETC
+#=GS UniRef90_S4WZQ4/390-559        DE [subseq from] Spike glycoprotein n=2 Tax=Orthocoronavirinae TaxID=2501931 RepID=S4WZQ4_BCHK5
+#=GS UniRef90_A0A6B9CZC3/340-433    DE [subseq from] S protein (Fragment) n=1 Tax=Bovine coronavirus TaxID=11128 RepID=A0A6B9CZC3_9BETC
+#=GS UniRef90_UPI003FA615D9/34-152  DE [subseq from] VsCoV-a7-S RBD n=1 Tax=Merbecovirus TaxID=2509494 RepID=UPI003FA615D9
+#=GS UniRef90_UPI003D81C75A/387-547 DE [subseq from] Spike glycoprotein,Fibritin n=1 Tax=Enterobacteria phage T4 TaxID=10665 RepID=UPI003D81C75A
+#=GS UniRef90_A0A866W041/324-433    DE [subseq from] Spike glycoprotein n=8 Tax=Coronaviridae TaxID=11118 RepID=A0A866W041_9BETC
+
+chain_A-1                              NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSFLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI00211D161C/13-210          NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI00211D161C/232-429         NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI0022F37D1D/26-223          NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI0015882A50/13-210          NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI00255C27E0/13-210          NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI001955F526/21-218          NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI00336AED40/57-254          NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI0025812038/13-210          NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI00293DA1F0/11-208          NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLFRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8K2ACR3/27-224             NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI0025811FE7/52-249          NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTYGVGYQPYRVVV
+UniRef90_UPI0026F37D2B/316-513         NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI0020779C43/319-516         NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RMK6/193-390            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RKS7/220-417            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A7T6Y5W2/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI001BCA67C2/322-519         NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI001BCA67D1/322-519         NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI00145118D4/331-528         NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI003467EE6B/333-530         NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A6H1PJZ3/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_P0DTC2/331-528                NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI001E6A10F8/331-528         NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RCH8/297-494            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RKJ3/295-492            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JWX0/289-486            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RG66/295-492            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1J577/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RG42/297-494            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JYH7/295-492            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1K2L0/289-486            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1K183/297-494            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JRK7/297-494            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JC19/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1KJJ3/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JRT4/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RC36/220-417            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A895ZLB7/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JCD7/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RJ46/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1K1F5/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1J9I8/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JVJ8/327-524            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JIJ6/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1J2D2/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RBZ4/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1K7P4/289-486            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RKV3/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--KGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RIX4/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTSGVGYQPYRVVV
+UniRef90_A0A8B1K1D9/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1KBF4/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI0029529614/1-194           ---NLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JBT4/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1K4Z6/193-390            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1KW52/186-383            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI001BCA67B8/322-519         NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVCPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JXP4/320-517            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1K862/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RFS2/321-518            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RFC8/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JPN3/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1K6C7/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RFG4/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JYU6/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1K2U2/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JR30/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RLA3/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RAJ0/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JYN1/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JQS4/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1XVY9/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A899K156/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8A6U9B3/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RAM8/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RF20/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RW86/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1K0R6/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RCA3/295-492            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JX30/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1K0J3/289-486            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JFC9/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1K719/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RBS0/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JR87/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1K9W0/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A7U3ED35/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A899K6H7/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1J1B8/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1J9P3/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A7U3ELV3/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8A5RU68/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A899K969/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A7U3HEP0/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A7U3ED58/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RKD5/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RMB3/289-486            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RKC6/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RAI1/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RF44/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RKG8/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RK62/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RKY6/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RK54/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1J9D9/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1K5D7/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI00211D1607/36-233          NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGNIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--KGFNCYFPLQSYGF-QPTYGVGYQPYRVVV
+UniRef90_UPI001BCA674B/322-519         NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPCQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI0020CA2712/322-519         NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPCDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI001CEE08AB/27-220          --SNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A899JFB4/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-XIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A7U3ELM2/331-528            NIXNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RKL0/289-486            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLXNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1K2S5/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCXGVSPTXLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RX85/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFXXYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI001E1E2432/61-258          NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNDLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-K-PCNGV--EGFNCHFPLKPYGF-QPTYGVGYQPYRVVV
+UniRef90_A0AA49X976/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-T-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGLNCYFPLQSYGF-HPTNGVGYQPYRVVV
+UniRef90_A0A8B6RJ24/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNXXXFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1K347/321-518            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGXXXYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RKK2/289-486            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLXXX-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0ACD6BAE9/327-524            NITNLCPFGEVFNATT--FASVYAWNRKRISNCVADYSVLYNS-T-SFSTFKCYGVSPTKLNDLCFTNVYADSFVVRGDEVRQIAPGQTGRIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-HPTNGVGYQPYRVVV
+UniRef90_A0AAN0NP16/327-524            NITNLCPFGEVFNATT--FASVYAWNRKRISNCVADYSVLYNS-T-SFSTFKCYGVSPTKLNDLCFTNVYADSFVVRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLKSYGF-HPTNGVGYQPYRVVV
+UniRef90_UPI00398D6A38/331-528         NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-T-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGLNCYFPLQSYGF-HPTYGVGYQPYRVVV
+UniRef90_A0A8E4SE09/361-550            ---SLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RJ38/326-523            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVXXXX-X-XXXXFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RK83/186-383            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLXXX-X-XXXXXKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RMU6/96-293             NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVXXXX-X-XXXXFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A7U3HF24/316-504            ---------XVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQS--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RK40/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JFM7/322-519            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-XXXXX--XXXNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JFX3/297-494            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--XXXXXXXXLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JZI2/196-393            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-XXXXFXXXXXXPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1K0W8/186-383            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI002DDDBDC2/13-210          NITNLCPFDEVFNATR--FASVYAWNRKRISNCVADYSVLYNL-A-PFFTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGNIADYNYKLPDDFTG--C-VIAWN--SNKLDSKV-S-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GN-K-PCNGV--AGFNCYFPLKSYSF-RPTYGVGHQPYRVVV
+UniRef90_A0A8B6RKG0/186-383            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RNE7/289-486            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RJ60/297-494            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTXXXYXXXPTKXXXXXXTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI0032D6DB67/316-513         NITNLCPFDEVFNATR--FASVYAWNRKRISNCVADYSVLYNL-A-PFFTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGNIADYNYKLPDDFTG--C-VIAWN--SNKLDSKV-S-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GN-K-PCNGV--AGFNCYFPLRSYSF-RPTYGVGHQPYRVVV
+UniRef90_UPI001F5FF543/1-195           -ITNLCPFDEVFNATR--FASVYAWNRKRISNCVADYSVLYNL-A-PFFTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGNIADYNYKLPDDFTG--C-VIAWN--SNKLDSKV-S-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GN-K-PCNGV--AGFNCYFPLRSYSF-RPTYGVGHQPYRVVV
+UniRef90_UPI0032E9392F/1-198           NITNLCPFDEVFNATR--FASVYAWNRKRISNCVADYSVLYNF-A-PFFAFKCYGVSPTKLNDLCFTNVYADSFVIRGNEVSQIAPGQTGNIADYNYKLPDDFTG--C-VIAWN--SNKLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GN-K-PCNGV--AGVNCYFPLQSYGF-RPTYGVGHQPYRVVV
+UniRef90_A0A8B1JAR8/346-528            ---------------X--XASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIXDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1J9J2/347-528            ------------------XASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIXDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1K082/296-493            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RBQ2/297-494            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI00211D15FD/15-212          NITNLCPFGEVFNATT--FASVYAWNRKRISNCVADYSVLYNS-T-SFSTFKCYGVSPTKLNDLCFTNVYADSFVITGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SKHIDAKE-G-GNFNYLYRLFRKANLKPFERDISTEIYQA--GS-K-PCNGQ--TGLNCYYPLYRYGF-YPTDGVGHQPYRVVV
+UniRef90_A0A8B1JMH8/193-390            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVXXXX-X-XXXXXXXXXXXPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1J2N1/347-528            ------------------XASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIXDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JCD4/347-528            ------------------XASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIXDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RF32/297-494            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXXPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RLX9/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXXPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI00315B4064/13-210          NITNLCPFGEVFNATK--FPSVYAWERKKISNCVADYSVLYNS-T-FFSTFKCYGVSATKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFMG--C-VLAWN--TRNIDATS-T-GNYNYKYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI0020779CA7/1-192           ----LCPFDEVFNATR--FASVYAWNRKRISNCVADYSVLYNL-A-PFFTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGNIADYNYKLPDDFTG--C-VIAWN--SNKLDSKV-S-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GN-K-PCNGV--AGFNCYFPLRSYSF-RPTYGVGHQPYRVVV
+UniRef90_A0A8B1JB18/347-528            ------------------XASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSLTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIXDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI0022EC9ABD/1-196           --TNLCPFHEVFNATR--FASVYAWNRKRISNCVADYSVLYNF-A-PFFAFKCYGVSPTKLNDLCFTNVYADSFVIRGNEVSQIAPGQTGNIADYNYKLPDDFTG--C-VIAWN--SNKLDSKV-S-GNYNYLYRLFRKSKLKPFERDISTEIYQA--GN-K-PCNGV--AGFNCYFPLQSYGF-RPTYGVGHQPYRVVV
+UniRef90_A0A8B1J9K4/348-528            -------------------XXVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKXXDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI0028CBC139/22-219          NITNLCPFDEVFNATT--FASVYAWNRKRISNCVADYSVLYNF-A-PFFAFKCYGVSPTKLNDLCFTNVYADSFVIRGNEVSQIAPGQTGNIADYNYKLPDDFTG--C-VIAWN--SNKLDSTV-G-GNYNYRYRLFRKSKLKPFERDISTEIYQA--GN-K-PCNGV--AGVNCYFPLQSYGF-RPTYGVGHQPYRVVV
+UniRef90_A0ABF7PLN6/331-528            NITNLCPFGEVFNATT--FASVYAWNRKRISNCVADYSVLYNS-T-SFSTFKCYGVSPTKLNDLCFTNVYADSFVITGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SKHIDAKE-G-GNFNYLYRLFRKANLKPFERDISTEIYQA--GS-K-PCNGQ--TGLNCYYPLYRYGF-YPTDGVGHQPYRVVV
+UniRef90_A0A8B6RM71/297-494            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXXXTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RK76/291-488            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXXXTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI0022EC9AD4/33-229          NITNLCPFGEVFNATR--FASVYAWNRRRISNCVADYSVLYNT-T-SFSTFKCYGVSPTKLNDLCFTNVYADSFVVRGDEVRQIAPGQTGKIADYNYKLPDDFMG--C-VIAWN--SISLDAKV-G-GNYNYYYRLFRKSVLKPFERDISTQLYQA--GD-K-PCS-V--EGPDCYYPLQSYGF-QSTNGVGYQPYRVVV
+UniRef90_A0A8B6RLM8/321-518            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIXXX--XX-X-XXXXX--XXXXXYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RW62/323-520            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGXXXXXXXXXXXX-XXXXGVGYQPYRVVV
+UniRef90_A0A8B1JF55/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXXXXXLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI00311CE1F7/32-229          NITNLCPFHEVFNATT--FASVYAWNRKRISNCVADYSVIYNF-A-PFFAFKCYGVSPTKLNDLCFTNVYADSFVIRGNEVSQIAPGQTGNIADYNYKLPDDFTG--C-VIAWN--SNKLDSKP-S-GNYNYLYRLFRKSKLKPFERDISTEIYQA--GN-K-PCNGV--AGPNCYSPLQSYGF-RPTYGVGHQPYRVVV
+UniRef90_A0A8B6RJ74/296-493            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLXXX-X-XXXXXXXXXXXXXXLNXLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI003704D4B3/23-220          NITNLCPFHEVFNATT--FASVYAWNRKRISNCVADYSVIYNF-A-PFFAFKCYGVSPTKLNDLCFTNVYADSFVIRGNEVSQIAPGQTGNIADYNYKLPDDFTG--C-VIAWN--SNKLDSKP-S-GNYNYLYRLFRKSKLKPFERDISTEIYQA--GN-K-PCNGV--AGPNCYSPLQSYGF-RPTYGVGHQPYRVVV
+UniRef90_UPI0022EC9A0F/13-209          NITNLCPFGEVFNASK--FASVYAWNRKRISNCVADYSVLYNS-T-SFSTFKCYGVSPTKLNDLCFTNVYADSFVVKGDEVRQIAPGQTGVIADYNYKLPDDFTG--C-VIAWN--SVKQDALT-G-GNYGYLYRLFRKSKLKPFERDISTEIYQA--GS-T-PCNGQ--VGLNCYYPLERYGF-HPTTGVNYQPFRVVV
+UniRef90_UPI0039A3F8B7/338-535         NITNLCPFHEVFNATT--FASVYAWNRKRISNCVADYSVIYNF-A-PFFAFKCYGVSPTKLNDLCFTNVYADSFVIRGNEVSQIAPGQTGNIADYNYKLPDDFTG--C-VIAWN--SNKLDSKP-S-GNYNYLYRLFRKSKLKPFERDISTEIYQA--GN-R-PCNGV--AGPNCYSPLQSYGF-RPTYGVGHQPYRVVV
+UniRef90_A0A7U3HFL6/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKX-X-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYXXXXXXX
+UniRef90_UPI002A6B905C/328-525         NITNLCPFHEVFNATT--FASVYAWNRKRISNCVADYSVIYNF-A-PFFAFKCYGVSPTKLNDLCFTNVYADSFVIRGNEVSQIAPGQTGNIADYNYKLPDDFTG--C-VIAWN--SNKLDSKP-S-GNYNYLYRLLRKSKLKPFERDISTEIYQA--GN-K-PCNGV--AGPNCYSPLQSYGF-RPTYGVGHQPYRVVV
+UniRef90_A0ACD6BAD7/331-528            NITNLCPFGEVFNASK--FASVYAWNRKRISNCVADYSVLYNS-T-SFSTFKCYGVSPTKLNDLCFTNVYADSFVVKGDEVRQIAPGQTGVIADYNYKLPDDFTG--C-VIAWN--SVKQDALT-G-GNYGYLYRLFRKSKLKPFERDISTEIYQA--GS-T-PCNGQ--VGLNCYYPLERYGF-HPTTGVNYQPFRVVV
+UniRef90_A0A8B6RJG7/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFXXXXSTEIYQX--XX-X-XXXXX--XXXXXXXXLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RC77/289-486            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXXXXXXXXXXFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI002AC9F1EF/3-187           --SNLCPFDEVFDATR--FASVYAWNRKRISNCVADYSVLYNL-A-PFFTFKCYGVSPTKLNDLSFTNVYADSFVIRGDEVRQIAPGQTGNIADYNYKLPDDFTG--C-VIAWN--SNKLDSKV-S-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GN-K-PCNGV--AGFNCYFPLRSYSF-RPTYGVGHQPYRVVV
+UniRef90_A0A8B6RKH7/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GX-X-XXXXX--XXXXXXXXXXXXXX-XXXXXVGYQPYRVVV
+UniRef90_A0AA50AG07/318-510            NITNLCPFGEVFNATT--FASVYAWNRRRISNCVADYSVLYNT-T-SFSTFKCYGVSPTKLNDLCFTNVYADSFVVRGDEVRQIAPGQTGKIADYNYKLPDDFMG--C-VIAWN--SISLDA---G-GSY--YYRLFRKSVLKPFERDISTQLYQA--GD-T-PCS-V--AGPDCYYPLQSYYF-QSTNGVGYQPYRVVV
+UniRef90_A0A8B1K6V9/320-517            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYXX--XX-X-XXXXX--XXXXXXXXXXXXXX-XXXXGVGYQPYRVVV
+UniRef90_A0A8B6RVC4/331-512            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SXXXXXXX-X-XXXXXXXXLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVX
+UniRef90_A0A8B1JFX2/297-494            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXXXXXXXXXXXXXXXXXSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI00398D692C/1-190           ---NLCPFHEVFNATT--FASVYAWNRTRISNCVADYSVLYNF-A-PFFAFKCYGVSPTKLNDLCFTNVYADSFVIKGNEVSQIAPGQTGNIADYNYKLPDDFTG--C-VIAWN--SNKLDSKH-S-GNYDYWYRSLRKSKLKPFERDISTEIYQA--GN-K-PCKG---KGPNCYFPLQSYGF-RPTYGVGHQPYRVVV
+UniRef90_A0A8B1JF74/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXXXXXXXXXXXXXXXXXXFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1K570/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXXXXXXXXXXXXXXXXXXFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JF58/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXXXXXXXXXXXXXXXXXXFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1J0W4/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXXXXXXXXXXXXXXXXXXFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RJ10/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXXXXXXXXXXXXXXXXXXFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JYJ0/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIXXX--XX-X-XXXXX--XXXXXXXXXXXXXX-XXXXXVGYQPYRVVV
+UniRef90_A0A8B1K4L8/330-527            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVXXXX-X-XXXXXXXXXXSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYXX--XX-X-XXXXX--XXXXXXXXXXSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI0020005B78/13-209          NITNLCPFGEVFNATT--FPSVYAWERKRISNCVADYSVLYNS-T-SFSTFKCYGVSATKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFLG--C-VLAWN--TNSKDSST-S-GNYNYLYRWVRRSKLNPYERDLSNDIYSP--GG-Q-SCSAV---GPNCYNPLRPYGF-FTTAGVGHQPYRVVV
+UniRef90_A0A8B1JFY8/331-528            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPXXXXXXXXXXXX--XX-X-XXXXX--XXXXXXXXXXXXXX-XXTNGVGYQPYRVVV
+UniRef90_A0A8B6RXD8/289-486            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PXXXX--XXXXXXXXXXXXXX-XXXXGVGYQPYRVVV
+UniRef90_A0A2D1PXA9/318-514            NITNLCPFGEVFNATT--FPSVYAWERKRISNCVADYSVLYNS-T-SFSTFKCYGVSATKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFLG--C-VLAWN--TNSKDSST-S-GNYNYLYRWVRRSKLNPYERDLSNDIYSP--GG-Q-SCSAI---GPNCYNPLRPYGF-FTTAGVGHQPYRVVV
+UniRef90_U5WI05/319-515                NITNLCPFGEVFNATT--FPSVYAWERKRISNCVADYSVLYNS-T-SFSTFKCYGVSATKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFTG--C-VLAWN--TRNIDATQ-T-GNYNYKYRSLRHGKLRPFERDISNVPFSP--DG-K-PCTP---PAFNCYWPLNDYGF-YITNGIGYQPYRVVV
+UniRef90_UPI00274030E3/307-503         NITNLCPFGEVFNATT--FPSVYAWERTRISDCVADYSVLYNS-T-SFSTFKCYGVSPTKLNDLCFSSVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFTG--C-VIAWN--TANLDATS-T-GNYNYYYRSLRHGKLKPFERDISNVPFSP--EG-K-PCTP---PAFNCYRPLNTYGF-NPTVGIGYQPYRVVV
+UniRef90_A0A8B1K2S7/289-486            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNXXXXXXXXXXXXXXX--XX-X-XCNXX--XXXXXXXXXXXXXX-XXXXGVGYQPYRVVV
+UniRef90_A0A023PUW9/322-518            NITNLCPFGEVFNATT--FPSVYAWERKRISNCVADYSVLYNS-T-SFSTFKCYGVSAIKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFMG--C-VLAWN--TRNIDATS-S-GNFNYKYRSLRHGKLRPFERDISNVPFSP--DG-K-PCTP---PAFNCYWPLNDYGF-YTTNGIGYQPYRVVV
+UniRef90_UPI00186BC2FB/13-209          NITNLCPFGEVFNATK--FPSVYAWERKKISNCVADYSVLYNS-T-FFSTFKCYGVSATKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFMG--C-VLAWN--TRNIDATS-T-GNHNYKYRYLRHGKLRPFERDISNVPFSP--DG-K-PCTP---PALNCYWPLNDYGF-YTTTGIGYQPYRVVV
+UniRef90_A0AA49X3X7/320-515            NITNLCPFGEVFNASS--FPSVYAWERRKISDCVADYSVLYNS-T-SFSTFKCYGVSATKLNDLCFSNVYADSFVVQGDQVRQIAPSQTGVIADYNYRLPDDFTG--C-VIAWN--TNGIDSQ--S-GNRNYYYRLFRGSKLTPYERDISNNLFAP--GG-G-TCNSV---GPNCYEPLKSYSF-HTTSGVGYQPYRVVV
+UniRef90_P59594/318-514                NITNLCPFGEVFNATK--FPSVYAWERKKISNCVADYSVLYNS-T-FFSTFKCYGVSATKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFMG--C-VLAWN--TRNIDATS-T-GNYNYKYRYLRHGKLRPFERDISNVPFSP--DG-K-PCTP---PALNCYWPLNDYGF-YTTTGIGYQPYRVVV
+UniRef90_UPI0032E938E3/13-209          NITNLCPFGQVFNASN--FPSVYAWERLRISDCVADYAVLYNSSS-SFSTFKCYGVSPTKLNDLCFSSVYADYFVVKGDDVRQIAPAQTGVIADYNYKLPDDFTG--C-VLAWN--TNSVDSKS-G-NN--FYYRLFRHGKIKPYERDISNVLYNS--AG-G-TCSSI--SQLGCYEPLKSYGF-TPTVGVGYQPYRVVV
+UniRef90_A0A8B6RLJ5/289-486            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNXXXXXXXXXXXXXXX--XX-X-XXXXX--XXXXXXXXXXXXXX-XXXXGVGYQPYRVVV
+UniRef90_A0A8B1JHI8/308-505            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNXXXXXXXXXXXXXXX--XX-X-XXXXX--XXXXXXXXXXXXXX-XXXXGVGYQPYRVVV
+UniRef90_A0A7G6UAJ9/322-518            NITNLCPFGEVFNATK--FPSVYAWERKKISNCVADYSVLYNS-T-FFSTFKCYGVSATKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFMG--C-VLAWN--TRNIDATS-T-GNHNYKYRYLRHGKLRPFERDISNVPFSP--DG-K-PCTP---PALNCYWPLNDYGF-YTTTGIGYQPYRVVV
+UniRef90_Q1KVI3/318-514                NITNLCPFGEVFNATK--FPSVYAWERKKISNCVADYSVLYNS-T-FFSTFKCYGVSATKLNDLCFSNVYANSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFMG--C-VLAWN--TRNIDATS-T-GNYNYKYRYLRHGKLRPFERDISNVPFSP--DG-K-PCTP---PALNCYWPLNDYGF-YTTTGIGYQPYRVVV
+UniRef90_A0A8B6RC45/296-493            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXXXTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYXX--XS-T-PXXXX--XXXXXXXXXXXXXX-XXXXGVGYQPYRVVV
+UniRef90_A0A8B6RCC7/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNXXXXXXXXXXXXXXX--XX-X-XXXXX--XXXXXXXXXXXXXX-XXXXGVGYQPYRVVV
+UniRef90_A0A3Q8AKM0/321-517            NITNLCPFGQVFNASN--FPSVYAWERLRISDCVADYAVLYNSSS-SFSTFKCYGVSPTKLNDLCFSSVYADYFVVKGDDVRQIAPAQTGVIADYNYKLPDDFTG--C-VLAWN--TNSVDSKS-G-NN--FYYRLFRHGKIKPYERDISNVLYNS--AG-G-TCSSI--SQLGCYEPLKSYGF-TPTVGVGYQPYRVVV
+UniRef90_A0A7U3DWG5/331-481            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SXXXXSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCX----------------------------------
+UniRef90_A0A8B1KVF5/297-494            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RC94/297-494            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCXTNVXXDSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNXXXXXXXXXXXXXXX--XX-X-XXXXX--XXXXXXXXXXXXXX-XXXXGVGYQPYRVVV
+UniRef90_A0A8B1JFP1/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVAXXXXXXXX-X-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_UPI0029C10071/13-206          NITNLCPFSQVFNATR--FPSVYAWTRERISNCIADYSVLYNS-T-SFSTFRCYGVSPTKLNDLCFSNVYADSMVVRGDEVRQIAPSQTGVIADYNYKLPDDFTG--C-VIAWN--SKAKDE------NGQYFYRLFRKSKLLPFQRDVSNVTYGS--GK-NDGCNPS--EA-DCYWPLLKYGF-TSSVSQDYQPYRVVV
+UniRef90_A0A7R6WCE7/305-493            NITNLCPFSEVFNATT--FASVYAWNRKRISNCVADYSVLYNS-T-SFSTFQCYGVSSTKLNDLCFTNVYADSFVVRGDEVRQIAPGQTGVIADYNYKLPDDFTG--C-VLAWN--SRNQDAST-S-GNFNYYYRIWRSEKLRPFERDIAHYDYQV--GT-Q----------FK--SSLKNYGF-YSSAGDSHQPYRVVV
+UniRef90_A0A8B6R9Y5/297-327            NITNLCPFGEVFNATR--FASVYAWNRKRISNX-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A8B6R9Y5/377-494            ------------------------------------------------------------------------------------XXGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0ACD6BAG6/321-514            NITNLCPFSQVFNATR--FPSVYAWTRERISNCIADYSVLYNS-T-SFSTFRCYGVSPTKLNDLCFSNVYADSMVVRGDEVRQIAPSQTGVIADYNYKLPDDFTG--C-VIAWN--SKAKDE------NGQYFYRLFRKSKLLPFQRDVSNVTYGS--GK-NDGCNPS--EA-DCYWPLLKYGF-TSSVSQDYQPYRVVV
+UniRef90_UPI003F8D8F75/321-515         NITNLCPFGQVFNAST--FPSVYAWGRMRISDCVADYSVLYNSTS-SFSTFKCYGVSPTKLNDLCFSSVYADYFVVKGDDVRQIAPAQTGVIADYNYKLPDDFTG--C-VLAWN--TKSIDKGQ------GFYYRLFRHGKIKPYERDTSNVPYNA--QG-G-TCTDT--SQLNCYQPLKSYDF-TDTVGVGYQPYRVVV
+UniRef90_A0ACD6B8H8/322-515            NITQLCPFNEVFNITS--FPSVYAWERMRITNCVADYSVLYNSSA-SFSTFQCYGVSPTKLNDLCFSSVYADYFVVKGDDVRQIAPAQTGVIADYNYKLPDDFTG--C-VIAWN--TNSLDSS------NEFFYRRFRHGKIKPYGRDLSNVLFNP--SG-G-TCS-A--EGLNCYKPLASYGF-TQSSGIGFQPYRVVV
+UniRef90_A0A8B6RLY8/327-524            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXXPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPXXXXXXXXXXXX--XX-X-XXXXX--XXXXXXXXXXXXXX-XXXNGVGYQPYRVVV
+UniRef90_UPI0040535BEE/306-500         NVTQLCPFSDVFNRTK--FPSVYAWERMSIRDCVADYAVLYNS-SISFSTFECYGVSPTKLNDLCFSSVYADYFVVRGDDVKQIAPGKTGVIADYNYKLPDDFVG--C-VLAWN--SRHVDSKQ-G-----FYYRLFRHGKIKPYQRDMSRELYSP--SG-T-PCT-T--EGFNCYDPLAHYAFASPGIGTGYQPFRVVV
+UniRef90_UPI003F8D8FB6/306-500         NMTNICPFDQVFNKTQ--FPSVYAWERVRISDCVSDYTVLYNSSA-SFSTFKCYGVSPTKLNDLCFSGVYADYFVVKGDHVHQIAPGQTGVIADYNYKLPSEFVG--C-ILAWN--TRTIDSKR-G-----FYYRLFRHGNIRPYERDTSNVPYNA--AG-G-TCNQP--GTHNCYEPLQDYGF-TSTSGVGYQPFRVVV
+UniRef90_UPI0001793A48/1-179           ------PFGEVFNATK--FPSVYAWERKKISNCVADYSVLYNS-T-FFSTFKCYGVSATKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFMG--C-VLAWN--TRNIDATS-T-GNYNYKYRYLRHGKLRPFERDISNVPFSP--DG-K-PCTP---PALNCYWPLKDYGF-YTTSGIGYQPYRVVV
+UniRef90_A0A8B1JFT0/365-494            ------------------------------------------------------------------------XFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RJP7/387-516            ------------------------------------------------------------------------XFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTKIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RC54/297-321            NITNLCPFGEVFNATR--FASVYAWXX-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A8B6RC54/380-494            ---------------------------------------------------------------------------------------XTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RA18/297-321            NITNLCPFGEVFNATR--FASVYAWXX-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A8B6RA18/380-494            ---------------------------------------------------------------------------------------XTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JFS0/297-321            NITNLCPFGEVFNATR--FASVYAWXX-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A8B1JFS0/380-494            ---------------------------------------------------------------------------------------XTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JM53/289-313            NITNLCPFGEVFNATR--FASVYAWXX-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A8B1JM53/372-486            ---------------------------------------------------------------------------------------XTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6REY4/331-461            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNX----------------------------------------------------------
+UniRef90_A0A0P0INJ4/325-518            NITKLCPFDQVFNASS--FPSVYAWERVRITDCVANYAVLYNSSV-SFSTFQCYGVSPTKLNDLCFSSVYADYFIVKGDDVRQIAPSQTGVIADYNYKLPDDFTG--C-VIAWN--TNALDS------NKDFYYRLFRHGKIKPYGRDLSNIPYSP---S-G-TCSTI--NNLNCFAPLKSYGF-TQSSGISFQPYRVVV
+UniRef90_A0A8B1KE13/346-528            ---------------X--XASVYAWNRKRISNCVADYSVLYNS-A-SXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A7U3HCW3/331-418            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKX------------------------------------------------------------------------------------------------------------
+UniRef90_A0A7U3HCW3/478-528            -----------------------------------------------------------------------------------------------------------------------------------------------------------------X-XCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_U5WLI7/1-166                  ---------------------------------VADYSVLYNS-T-SFSTFKCYGVSVTKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFLG--C-VLAWN--TNSKDSST-S-GNYNYLYRWVRRSKLNPYERDLSNDIYSP--GG-Q-SCSAV---GPNCYNPLRPYGF-FTTAGVGHQPYRVVV
+UniRef90_A0A8B1L7Y7/380-494            ---------------------------------------------------------------------------------------XTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JFS5/372-486            ---------------------------------------------------------------------------------------XTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JM59/380-494            ---------------------------------------------------------------------------------------XTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RF08/380-494            ---------------------------------------------------------------------------------------XTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JF17/414-528            ---------------------------------------------------------------------------------------XTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JPB5/380-494            ---------------------------------------------------------------------------------------XTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JA98/412-528            -------------------------------------------------------------------------------------XGQTGKXXDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1KWW1/279-393            ---------------------------------------------------------------------------------------XTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0AA49X5P5/322-501            NITNRCPFDKVFNATR--FPNVYAWERTKISDCVADYTVLYNS-T-SFSTFKCYGVSPSKLIDLCFTSVYADTFLIRSSEVRQVAPGETGVIADYNYKLPDDFTG--C-VIAWN--TAKQDT------GY-YYYRSHRKTKLKPFERDLSSD-----------DGNGV--------YTLSTYDF-NPNVPVAYQATRVVV
+UniRef90_A0AA50AFB2/47-226             NITNRCPFDKVFNATR--FPNVYAWERTKISDCVADYTVLYNS-T-SFSTFKCYGVSPSKLIDLCFTSVYADTFLIRSSEVRQVAPGETGVIADYNYKLPDDFTG--C-VIAWN--TAKQDT------GY-YYYRSHRKTKLKPFERDLSSD-----------DGNGV--------YTLSTYDF-NPNVPVAYQATRVVV
+UniRef90_A0A8B6RC62/296-493            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVXXXX-X-SFSTFXXXXXXXXXXXXXXXXXXXXXXFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNXXXXXXXXXXXXXXX--XX-X-XXXXX--XXXXXXXXXXXXXX-XXXXGVGYQPYRVVV
+UniRef90_A0A0U1WHI2/321-500            NITNRCPFDRVFNASR--FPSVYAWERTKISDCVADYTVLYNS-T-SFSTFKCYGVSPSKLIDLCFTSVYADTFLIRSSEVRQVAPGETGVIADYNYKLPDDFTG--C-VIAWN--TAKQDT------GY-YYYRSHRKTKLKPFERDLSSD-----------DGNGV--------YTLSTYDF-NPNVPVAYQATRVVV
+UniRef90_A0AA50AD64/322-500            NITNRCPFDKVFNATR--FPSVYAWERIKISDCIADYTVLYNS-T-SFSTFKCYGVSPSKLIDLCFTSVYADTFLIRSSEVRQVAPGETGVIADYNYKLPDDFTG--C-VIAWN--TAKQDQ-----G--QYYYRSSRKTKLKPFERDLSSD------------ENGV--R------TLSTYDF-YPTVPIEYQATRVVV
+UniRef90_A0A7U3EEN8/331-446            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-X--------------------------------------------------------------------------
+UniRef90_Q3I5J5/322-500                NITNRCPFDKVFNATR--FPNVYAWERTKISDCVADYTVLYNS-T-SFSTFKCYGVSPSKLIDLCFTSVYADTFLIRSSEVRQVAPGETGVIADYNYKLPDDFTG--C-VIAWN--TAKQDQ-----G--QYYYRSHRKTKLKPFERDLSSD------------ENGV--R------TLSTYDF-YPSVPVAYQATRVVV
+UniRef90_A0A8B6RX22/297-412            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-X--------------------------------------------------------------------------
+UniRef90_A0A7U3HDM5/331-446            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-X--------------------------------------------------------------------------
+UniRef90_A0A7U3EEK0/331-446            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-X--------------------------------------------------------------------------
+UniRef90_A0A7U3HEG2/331-445            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKX----------------------------------------------------------------------------
+UniRef90_A0A7U3HGG2/331-445            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKX----------------------------------------------------------------------------
+UniRef90_A0AA49X538/322-500            NITNRCPFDRVFNASR--FPNVYAWERTKISDCVADYTVLYNS-T-SFSTFKCYGVSPSKLIDLCFTSVYADTFLIRSSEVRQVAPGETGVIADYNYKLPDDFTG--C-VIAWN--TAKQD--I-G----SYYYRSHRKTKLKPFERDLSSD------------DNGV--------YTLSTYDF-NPNVPVAYQATRVVV
+UniRef90_A0A8B1JA42/419-528            --------------------------------------------------------------------------------------------XDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1J124/419-528            --------------------------------------------------------------------------------------------XDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JCH4/419-528            --------------------------------------------------------------------------------------------XDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1KR97/419-528            --------------------------------------------------------------------------------------------XDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JBP8/419-528            --------------------------------------------------------------------------------------------XDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1J9H8/360-469            --------------------------------------------------------------------------------------------XDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1LB85/419-528            --------------------------------------------------------------------------------------------XDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RWD6/419-528            --------------------------------------------------------------------------------------------XDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1IWE7/379-488            --------------------------------------------------------------------------------------------XDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B6RWE2/419-528            --------------------------------------------------------------------------------------------XDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A2R3SUW9/326-504            NITNVCPFHKVFNATR--FPSVYAWERTKISDCIADYTVFYNS-T-SFSTFKCYGVSPSKLIDLCFTSVYADTFLIRFSEVRQVAPGQTGVIADYNYKLPDDFTG--C-VIAWN--TAKQDT-----G--HYFYRSHRSTKLKPFERDLSSD------------ENGV--R------TLSTYDF-NPNVPLEYQATRVVV
+UniRef90_A0A7U3DWM4/331-445            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-XIAWN--SNNLDSKX----------------------------------------------------------------------------
+UniRef90_R9QTH3/322-500                NITNRCPFDRVFNASR--FPSVYAWERTKISDCVADYTVLYNS-T-SFSTFKCYGVSPSKLIDLCFTSVYADTFLIRFSEVRQIAPGETGVIADYNYKLPDEFTG--C-VIAWN--TANQDR-----G--QYYYRSSRKTKLKPFERDLSSD------------ENGV--R------TLSTYDF-YPSVPLEYQATRVVV
+UniRef90_A0ABF7PLQ0/331-446            NITNLXPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-X--------------------------------------------------------------------------
+UniRef90_A0AA50A7F2/317-495            NITNRCPFDRVFNASR--FPSVYAWERTKISDCVADYTVLYNS-T-SFSTFKCYGVSPSKLIDLCFTSVYADTFLVRFSEVRQVAPGETGVIADYNYKLPDDFTG--C-VIAWN--TAKQDQ------GY-YYYRSHRKTKLKPFERDLSSD------------ENGV--R------TLSTYDF-NPNVPLDYQATRVVV
+UniRef90_A0A8B1JCU8/419-528            --------------------------------------------------------------------------------------------XDYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQS--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A0U1WHH0/322-500            NITNLCPFDKVFNATR--FPSVYAWERTKISDCVADYTVFYNS-T-SFSTFNCYGVSPSKLIDLCFTSVYADTFLIRFSEVRQVAPGQTGVIADYNYKLPDDFTG--C-VIAWN--TAKQD--V-G----SYFYRSHRSSKLKPFERDLSSEEN----GV-R-T-LST--YDFNQYVPL------------EYQATRVVV
+UniRef90_UPI003CE5C94C/1-175           --TNVCPFHKVFNATR--FPSVYAWERTKISDCIADYTVFYNS-T-SFSTFKCYGVSPSKLIDLCFTSVYADTFLIRFSEVRQVAPGQTGVIADYNYKLPDDFTG--C-VIAWN--TAKQDT-----G--HYFYRSHRSTKLKPFERDLSSD------------ENGV--R------TLSTYDF-NPNVPLEYQATRVVV
+UniRef90_A0A899KK42/420-528            ---------------------------------------------------------------------------------------------XYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQA--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0A8B1JCL6/1-109              ---------------------------------------------------------------------------------------------DYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNLKPFERDISTEIYQS--GS-T-PCNGV--EGFNCYFPLQSYGF-QPTNGVGYQPYRVVV
+UniRef90_A0ACD6BAG0/310-488            NITNFCPFDKVFNATR--FPNVYAWQRTKISDCIADYTVLYNS-T-SFSTFKCYGVSPSKLIDLCFTSVYADTFLIRFSEVRQIAPGETGVIADYNYKLPDDFTG--C-VLAWN--TAKQD--I-G----SYFYRSHRAVKLKPFERDLSSD------------ENGV--R------TLSTYDF-NPNVPLDYQATRVVV
+UniRef90_A0A0U1WJY8/314-492            NITNRCPFDSIFNASR--FPSVYAWERTKISDCVADYTVLYNS-T-LFSTFKCYGVSPSKLIDLCFTSVYADTFLIRFSEVRQVAPGETGVIADYNYRLPDDFTG--C-VIAWN--TANQD--V-G----SYFYRSHRSTKLKPFERDLSSD------------ENGV--R------TLSTYDF-NPNVPLDYQATRVVV
+UniRef90_A0A0K1Z054/322-500            NITNLCPFDKVFNATR--FPSVYAWERTKISDCVADYTVFYNS-T-SFSTFNCYGVSPSKLIDLCFTSVYADTFLIRFSEVRQVAPGQTGVIADYNYKLPDDFTG--C-VIAWN--TAKYD--V-G----SYFYRSHRSSKLKPFERDLSSEE------------NGA--R------TLSTYDF-NQNVPLEYQATRVVV
+UniRef90_A0A0U1UYX4/317-495            NITNVCPFDKVFNATR--FPSVYAWERTKISDCVADYTVFYNS-T-SFSTFNCYGVSPSKLIDLCFTSVYADTFLIRFSEVRQVAPGQTGVIADYNYKLPDDFIG--C-VIAWN--TAKQD--V-G----SYFYRSHRSSKLKPFERDLSSEE------------NGV--------LTLSTYDF-NQNVPLEYQATRVVV
+UniRef90_Q0Q484/322-500                NITNLCPFDKVFNATR--FPSVYAWERTKISDCVADYTVFYNS-T-SFSTFNCYGVSPSKLIDLCFTSVYADTFLIRFSEVRQVAPGQTGVIADYNYKLPDDFTG--C-VIAWN--TAKQD--V-G----SYFYRSHRSSKLKPFERDLSS-VEEN--GR-T----------------LSTYDF-NQNVPLEYQATRVVV
+UniRef90_A0A8B1LAN5/319-516            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSXXXXX-X-XXXXXXXXXXXXXXXXXXXXXXXXXXSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYRYRLFRKSNLXXXXXXXXXXXXXX--XX-X-XXXXX--XXXXXXXXXXXXXX-XXXXGVGYQPYRVVV
+UniRef90_A0A8B1LC10/88-196             NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SX----------------------------------------------------------------------------------
+UniRef90_A0A7U3RIT3/331-439            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VIAWN--SX----------------------------------------------------------------------------------
+UniRef90_A0A8B1KSH1/331-439            NITNLCPFGEVFNATR--FASVYAWNRKRISNCVADYSVLYNS-A-SFSTFKCYGVSPTKLNDLCFTNVYADSFVIRGDEVRQIAPGQTGKIADYNYKLPDDFTG--C-VXAWN--SX----------------------------------------------------------------------------------
+UniRef90_Q6SRF2/318-444                NITNLCPFGEVFNATK--FPSVYAWERKKISNCVADYSVLYNS-T-FFSTFKCYGVSATKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFMG--C-VLAWN--TRNIDATS-T-GNYNYKYRYLR--------------------------------------------------------------
+UniRef90_U5WHW8/1-149                  ---------------------------------VADYTVLYNS-T-SFSTFKCYGVSPSKLIDLCFTSVYADTFLIRSSEVRQVAPGETGVIADYNYKLPDDFTG--C-VIAWN--TAKQDT------GY-YYYRSHRKTKLKPFERDLSSD-----------DGNGV--------YTLSTYDF-NPNVPVAYQATRVVV
+UniRef90_A0AA50ADQ1/242-413            NITNRCPFDKVFNATR--FPSVYAXXXXXXXXXXXXXXXXXXX-X-XXSTFKCYGVSPSKLIDLCFTSVYADTFLIRSSEVRQVAPGETGVIADYNYKLPDDFTG--C-VIAWN--TAKQDQ-----G--QYYYRSSRKTKLKPFERDLSSD------------ENGV--R------TLSTYDF-YPTVPIEYQATRVVV
+UniRef90_A0A8B1JFQ9/297-321            NITNLCPFGEVFNATR--FASVYAWXX-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A8B1JFQ9/380-494            ---------------------------------------------------------------------------------------XTGKIADYNYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNXXXXXXXXXXXXXXX--XX-X-XXXXX--XXXXXXXXXXXXXX-XXXNGVGYQPYRVVV
+UniRef90_Q5GDJ5/318-380                NITNLCPFGEVFNATK--FPSVYAWERKRISNCVADYSVLYNS-T-SFSTLKCYGVSATKLNDLCXX-------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_Q5GDJ5/488-514                ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------XIGYQPYRVVV
+UniRef90_A0A8B1JHD2/404-518            ---------------------------------------------------------------------------------------XTGKIXXXXYKLPDDFTG--C-VIAWN--SNNLDSKV-G-GNYNYLYRLFRKSNXXXXXXXXXXXXXXX--XX-X-XXXXX--XXXXXXXXXXXXXX-XXXNGVGYQPYRVVV
+UniRef90_A0A7U3VI77/352-421            ----------------------------------------------SCSTFKCYGVSPSKLIDLCFTSVYADTFLIRFSEVRQIAPGETGVIADYNYKLPDDFTG--C-VLAWN--TAKQD-------------------------------------------------------------------------------
+UniRef90_Q6QHB1/213-272                NITNLCPFGEVFNATK--FPSVYAWERKKISNCVADYSVLYNS-T-FFSTFKCYGVSATKLNDL----------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A7U3VI26/309-334            NITNFCPFDKVFNATR--FPNVYAWQRT----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A7U3VI26/388-420            -----------------------------------------------------------------------------------XXPGETGVIADYNYKLPDDFTG--C-VLAWN--TAKQD-------------------------------------------------------------------------------
+UniRef90_A0A7U3VI26/463-487            -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------DYQATRVVV
+UniRef90_A0A088DJY6/355-466            ---AECPFQSLINVTEATIPSPAFWRRHYVRNCNYDISVFTDN-A-DVYSLQCYGVAPSSLADMCWEEAHIDYMKISEKDIFSFKPSGAGDFAKYNYKLPSDFMG--C-TVVFT--NQELTC------------------------------------------------------------------------------
+UniRef90_A0A7U3W0L8/310-340            NITNFCPFDKVFNATR--FPNVYAWQRTKISDX-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UniRef90_A0A7U3W0L8/409-488            -------------------------------------------------------------------------------------------------------XG--C-VLAWN--TAKQD--I-G----SYFYRSHRAVKLKPXXXDXXSD------------ENGV--R------TLSTYDF-NPNVPXXXQXXXVVV
+UniRef90_F1BYL9/372-462                ----------------------AFWKRHVIRNCKFNFSHIMAL-S-HVYDMQCYGIDASKLPSTCWNEVYADVFRLAQDDFYSFKPSASGDLATYNYKLPSDFLG--C-TLILT--NPNL--------------------------------------------------------------------------------
+UniRef90_A0AA49EFF8/371-471            ------PYGDILSPPQ-----PIVWRRYSVSNCVFDFATIINN-L-PTKQLVCYGISPSKIASLCYASVTLDLMRINTTHFTNLISKVPDVFTTYNYKLPDNFVG--C-LHAYY--LNY---------------------------------------------------------------------------------
+UniRef90_A0A1B3Q5W5/377-468            --------------------SPAAWVRATISNCTFDFESLLRT-L-PTYNLKCYGISPARLSTMCYAGVTLDIFKLNTTHLSNMLGSVPDAVSIYNYALPSNFYG--C-VHAYH--LNS---------------------------------------------------------------------------------
+UniRef90_E0ZN36/362-508                ----------------------IVWRRYTVSSCSFDFESIVNN-L-PTYDLKCYGVSPARLAQMCYAGVTLDVMRINKTHYSNLIGNVPDLFTKYNYALPTNFYG--C-VHAYY--INVTDGRY-A-LATHYPATVITPGGRQPYNSYVATVLNT--------VNNWC--TRANC-FGLVVIGL-KPASG----------
+UniRef90_A3EXJ0/370-458                ----------------------IAWRRYAVSKCGFDFEAVINR-L-PTFELKCFGVSPARLASMCYGKVTIDVFRINVTHLANLIAGVPDAFSKYNYALPRDFYG--C-VHAFY--VN----------------------------------------------------------------------------------
+UniRef90_A0AA49EH99/358-463            ------PYDDIVNPPQ-----PIVWRRHTVNSCSFDFAAVVNR-L-PTYELRCYGVSPSKLAQMCYAGVTLDVFKVNTTHFSNMLGNVPDTFSTYNYALPTNFYG--C-VHAYY--INVTDATY----------------------------------------------------------------------------
+UniRef90_E0ZN60/368-458                ----------------------IVWKRHTVTNCSFDFDAIVNR-L-PTFQLKCFGVSPAKLAQMCYSSVTLDIFRANTTHLANMLGKVPDVFSKYNYALPPDFYG--C-VHSYY--INDT--------------------------------------------------------------------------------
+UniRef90_A3EXH4/366-458                --------------------QPVVWRRYTVTSCSFDFEAIVNR-L-PTFELKCFGISPARLAQMCYSSVTLDLFRANTTHLANMLGGVPDLFSKYNYALPSNFYG--C-VHAYY--INDT--------------------------------------------------------------------------------
+UniRef90_A0AB38ZDR9/372-459            ------------------------WRRYQITNCTFDFSKLITE-L-PTHDLWCTGISPDRLSSMCYGSVTLDSMLINVTHYSDLRANVPDPFSIYNYKLPSDFYG--C-VHTYY--LSN---------------------------------------------------------------------------------
+UniRef90_UPI0008A09DF1/21-110          -----------------------VWRRYMLYDCVFDFTVVVDS-L-PTHQLQCYGVSPRRLASMCYGSVTLDVMRINETHLNNLFNRVPDTFSLYNYALPDNFYG--C-LHAFY--LNST--------------------------------------------------------------------------------
+UniRef90_A0A2Z4EVK1/368-455            ---------------------PFVWKRYAISNCKFDFQALLSH-L-PTFQLRCFGISPTKLATMCFGTVTLDIMLVNVTHYNNLLNDVPDDFSLYNYQLPRNFYG--C-LHSYY--------------------------------------------------------------------------------------
+UniRef90_UPI003AFB8265/38-159          -----CDFSPLLTGTP---PQVYNFNRLSFTNCNYNLTKLLSL-F-EVSEFSCNAISPSALASTCYSSLTVDYFAFPLSMASYLRPGSTGPTAEFNYRQDFSNPT--CRVLATP--SSNITITK-P-SNYNWI-RLCRT-------------------------------------------------------------
+UniRef90_A0A0A7UZR7/332-440            -----CEIEQWLNDPQ--VPSPISWERKTFSNCNFNMSSLLSK-V-RATSFSCNNIDASKIYDMCFGSITIDKFAIPNSRKVDLQFGSSGYIQNYNYRLDQSATS--C-QLYYGIPANNVT-------------------------------------------------------------------------------
+UniRef90_A0AB38ZDN1/372-458            ----------------------FFWKRHSFSNCKFDFQSLLSY-L-PSFQLKCFGISPTKLSSMCFGTVSLDFMLVNITHYNNLLNDVPDDFSLYNYQLPRNFYG--C-LHSYY--------------------------------------------------------------------------------------
+UniRef90_F1DAZ9/374-466                ----------------------VVWRRFMLYDCAFDFSVVIDN-L-PTHQLQCYGISPRRLASMCYSSVTIDVMRINATHLNNLLNRVPDSFSLYNYAVPDDFYG--C-LHAFY--LNSTTA------------------------------------------------------------------------------
+UniRef90_A3EXG6/372-460                -----------------------VWRRYMLYDCVFDFTVVVDS-L-PTHQLQCYGVSPRRLASMCYGSVTLDVMRINETHLNNLFNRVPDTFSLYNYALPDNFYG--C-LHAFY--LNS---------------------------------------------------------------------------------
+UniRef90_A0A2P1M5J5/366-457            ----------------------VVWRRYLVRDCAFDFATVINN-L-PTYQLHCYGVSPSRLASMCYNTITIDVMRINTTHLNNLLQKVPDAFSLYNYAIPSDFYG--C-IHAYY--LNVTD-------------------------------------------------------------------------------
+UniRef90_A0A2H4MZ26/332-439            -----CQIEEWLGANT--VPSPINWERKTFSGCNFNMSRLLDL-V-QASSFTCNNIDASKLSSICFGSITIDKFAIPNSRRVDLQLGSTGYIQNFNYRMDGAATS--C-QLYYS--LPQADI------------------------------------------------------------------------------
+UniRef90_A0AA49EFE3/392-516            -----CDFTKMLSGTP---PQIYDFKRLVFTNCNYNLTKLLSL-F-QVSEFSCHEVSPSSLATGCYSSLTVDYFAYPLDMSSYLQPGSTGQIVQFNYKQDFSNPT--CRVLATV--PNNITSII-KPSNYVYLTECYRQN------------------------------------------------------------
+UniRef90_F1DAZ1/364-454                ---------------------PFYWRRFQIKSCKFDFNTLVSA-L-PTYDLWCKGISPERLGSMCFGAVTLDSMLINTTHYNDLKSNVPDAFTRFNYKLPTNFYG--C-VHTYY--LND---------------------------------------------------------------------------------
+UniRef90_UPI0039FDE1B1/35-203          -----CDFTPMLTGTP---PPIYNFKRLVFTNCNYNLTKLLSL-F-QVSEFSCHQVSPSSLATGCYSSLTVDYFAYSTDMSSYLQPGSAGEIVQFNYKQDFSNPT--CRVLATV--PQNLTTITKP-SNYAYLTECYKTSA---YGKNYLYN-APG--GY-T-PCLSLASRGFSTKYQSHSDGE-LTTTGYIY-------
+UniRef90_A0A2H4MXV6/331-438            -----CDMESWLNAPT--VPSPINWERKTFSSCNFNMSSLLNR-V-QASSFTCNNIDASKFYGMCFGSITIDKFAIPLSRKVDLQLGSSGYLQNFNYRIDQSATS--C-QMYYGIPQNNV--------------------------------------------------------------------------------
+UniRef90_S5UK74/156-251                -------------DKS--VPSPLNWERKTFSNCNFNMSSLMSF-I-QADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATS--C-QLYYN--LP----------------------------------------------------------------------------------
+UniRef90_UPI000A276D54/14-171          -------------------PPIYNFKRLVFTNCNYNLTKLLSL-F-QVSEFSCHQVSPSSLATGCYSSLTVDYFAYSTDMSSYLQPGSAGAIVQFNYKQDFSNPT--CRVLATV--PQNLTTITKP-SNYAYLTECYKTSA---YGKNY---LYNAPGAY-T-PCLSLASRGFSTKYQSHSDGE-LTTTGYIY-------
+UniRef90_X2JHN8/341-433                ---------------S--VPSPLNWERKTFSNCNFNMSSLMSS-I-QADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATS--C-QLYYN--L-----------------------------------------------------------------------------------
+UniRef90_A0A2Z4KJM2/56-149             --------------KS--VPSPLNWERKTFSNCNFNMSSLMSF-I-QADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATS--C-QLYYN--L-----------------------------------------------------------------------------------
+UniRef90_I4DEW6/353-446                ---------------S--VPSPLNWERKTFSNCNFNMSSLMSF-I-QADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATS--C-QLYYN--LP----------------------------------------------------------------------------------
+UniRef90_M1PF06/5-93                   ----------------------LNWERKTFSNCNFNMSSLMSF-I-QADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATS--C-QLYYN--LP----------------------------------------------------------------------------------
+UniRef90_A0AA49ID61/392-515            -----CDFSPMLQGTP---PPIYDFKRLVFTNCNYNLTKLLSL-F-QVSEFSCHQVSPSSLATGCYSSLTVDYFAYSTDMSSYLQPGSAGEIVQFNYKQDFSNPT--CRVLATV--PNNLTSII-KPSNYVHLTECYKS-------------------------------------------------------------
+UniRef90_Q9DXA9/25-118                 --------------KS--VPSPLNWERKTFSNCNFNMSSLMSF-I-QADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATS--C-QLYYN--L-----------------------------------------------------------------------------------
+UniRef90_S4WZQ4/390-559                ----ECDFTPMLTGTP---PPIYNFKRLVFTNCNYNLTKLLSL-F-QVSEFSCHQVSPSSLATGCYSSLTVDYFAYSTDMSSYLQPGSAGEIVQFNYKQDFSNPT--CRVLATV--PQNLTTITKP-SNYAYLTECYKTSA---YGKNYLYN-APG--GY-T-PCLSLASRGFSTKYQSHSDGE-LTTTGYIY-------
+UniRef90_A0A6B9CZC3/340-433            --------------KS--VPSPLNWERKTFSNCNFNMSSLMSL-I-QADSFTCNNIDAAKIYGMCFSSITIDKFAIPNGRKVDLQLGNLGYLQSFNYRIDTTATS--C-QLYYN--L-----------------------------------------------------------------------------------
+UniRef90_UPI003FA615D9/34-152          -----CDFTSMLTAVP---PQVYNFSRLVFTNCNYNLTKLLSL-F-QVTEFSCHQVSPDALASGCYSSLTVDYFAYPSYLASYLHPGSTGEIAQYNYKQDFSNPT--CRILATV--PANLTIPK-P-ARYMWLTQ-----------------------------------------------------------------
+UniRef90_UPI003D81C75A/387-547         ----ECDFSAMFSS-Q--PPQVYNFSRLVFTNCNYNLTRLLSL-F-QVSEFSCHQVSPSALASGCYSSLTVDYFAYPLSMASYLRQGSTGPIAQFNYKQ--DFTNPTCRILAAV--PSNVTIPL-P-QSYMWLTQCYTNSP---S----NSHYVEA--GSYT-PCLGLASRGFNTFN---SMHY-DPATG----------
+UniRef90_A0A866W041/324-433            -----CEIEKWLNAQD--VPSPLNWERKMFINCNFNLSSLLRY-V-QADSFSCNNMDASKVYGMCFSSILIDKFAIPNSRKVDLQLGNSGFLQSFNYKIDTTATS--C-QLYYSLHQNNVTV------------------------------------------------------------------------------
+#=GC RF                                xxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxx.x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..x.xxxxx..xxxxxxxx.x.xxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xx.x.xxxxx..xxxxxxxxxxxxxx.xxxxxxxxxxxxxxx
+
+chain_A-1                              LSFELLHAPATVCGPK
+UniRef90_UPI00211D161C/13-210          LSFELLHAPATVCGPK
+UniRef90_UPI00211D161C/232-429         LSFELLHAPATVCGPK
+UniRef90_UPI0022F37D1D/26-223          LSFELLHAPATVCGPK
+UniRef90_UPI0015882A50/13-210          LSFELLHAPATVCGPK
+UniRef90_UPI00255C27E0/13-210          LSFELLHAPATVCGPK
+UniRef90_UPI001955F526/21-218          LSFELLHAPATVCGPK
+UniRef90_UPI00336AED40/57-254          LSFELLHAPATVCGPK
+UniRef90_UPI0025812038/13-210          LSFELLHAPATVCGPK
+UniRef90_UPI00293DA1F0/11-208          LSFELLHAPATVCGPK
+UniRef90_A0A8K2ACR3/27-224             LSFELLHAPATVCGPK
+UniRef90_UPI0025811FE7/52-249          LSFELLHAPATVCGPK
+UniRef90_UPI0026F37D2B/316-513         LSFELLHAPATVCGPK
+UniRef90_UPI0020779C43/319-516         LSFELLHAPATVCGPK
+UniRef90_A0A8B6RMK6/193-390            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RKS7/220-417            LSFELLHAPATVCGPK
+UniRef90_A0A7T6Y5W2/331-528            LSFELLHAPATVCGPK
+UniRef90_UPI001BCA67C2/322-519         LSFELLHAPATVCGPK
+UniRef90_UPI001BCA67D1/322-519         LSFELLHAPATVCGPK
+UniRef90_UPI00145118D4/331-528         LSFELLHAPATVCGPK
+UniRef90_UPI003467EE6B/333-530         LSFELLHAPATVCGPK
+UniRef90_A0A6H1PJZ3/331-528            LSFELLHAPATVCGPK
+UniRef90_P0DTC2/331-528                LSFELLHAPATVCGPK
+UniRef90_UPI001E6A10F8/331-528         LSFELLHAPATVCGPK
+UniRef90_A0A8B6RCH8/297-494            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RKJ3/295-492            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JWX0/289-486            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RG66/295-492            LSFELLHAPATVCGPK
+UniRef90_A0A8B1J577/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RG42/297-494            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JYH7/295-492            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K2L0/289-486            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K183/297-494            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JRK7/297-494            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JC19/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1KJJ3/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JRT4/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RC36/220-417            LSFELLHAPATVCGPK
+UniRef90_A0A895ZLB7/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JCD7/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RJ46/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K1F5/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B1J9I8/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JVJ8/327-524            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JIJ6/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1J2D2/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RBZ4/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K7P4/289-486            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RKV3/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RIX4/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K1D9/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1KBF4/331-528            LSFELLHAPATVCGPK
+UniRef90_UPI0029529614/1-194           LSFELLHAPATVCGP-
+UniRef90_A0A8B1JBT4/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K4Z6/193-390            LSFELLHAPATVCGPK
+UniRef90_A0A8B1KW52/186-383            LSFELLHAPATVCGPK
+UniRef90_UPI001BCA67B8/322-519         LSFELLHAPATVCGPK
+UniRef90_A0A8B1JXP4/320-517            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K862/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RFS2/321-518            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RFC8/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JPN3/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K6C7/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RFG4/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JYU6/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K2U2/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JR30/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RLA3/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RAJ0/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JYN1/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JQS4/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1XVY9/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A899K156/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8A6U9B3/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RAM8/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RF20/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RW86/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K0R6/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RCA3/295-492            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JX30/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K0J3/289-486            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JFC9/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K719/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RBS0/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JR87/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K9W0/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A7U3ED35/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A899K6H7/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1J1B8/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1J9P3/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A7U3ELV3/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8A5RU68/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A899K969/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A7U3HEP0/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A7U3ED58/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RKD5/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RMB3/289-486            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RKC6/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RAI1/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RF44/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RKG8/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RK62/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RKY6/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RK54/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1J9D9/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K5D7/319-516            LSFELLHAPATVCGPK
+UniRef90_UPI00211D1607/36-233          LSFELLHAPATVCGPK
+UniRef90_UPI001BCA674B/322-519         LSFELLHAPATVCGPK
+UniRef90_UPI0020CA2712/322-519         LSFELLHAPATVCGPK
+UniRef90_UPI001CEE08AB/27-220          LSFELLHAPATVCG--
+UniRef90_A0A899JFB4/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A7U3ELM2/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RKL0/289-486            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K2S5/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RX85/331-528            LSFELLHAPATVCGPK
+UniRef90_UPI001E1E2432/61-258          LSFELLHAPATVCGPK
+UniRef90_A0AA49X976/331-528            LSFELLNAPATVCGPK
+UniRef90_A0A8B6RJ24/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K347/321-518            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RKK2/289-486            LSFELLHAPATVCGPK
+UniRef90_A0ACD6BAE9/327-524            LSFELLNAPATVCGPK
+UniRef90_A0AAN0NP16/327-524            LSFELLNAPATVCGPK
+UniRef90_UPI00398D6A38/331-528         LSFELLNAPATVCGPK
+UniRef90_A0A8E4SE09/361-550            LSFELLHAPAT-----
+UniRef90_A0A8B6RJ38/326-523            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RK83/186-383            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RMU6/96-293             LSFELLHAPATVCGPK
+UniRef90_A0A7U3HF24/316-504            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RK40/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JFM7/322-519            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JFX3/297-494            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JZI2/196-393            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K0W8/186-383            LSFELLHAPATVCGPK
+UniRef90_UPI002DDDBDC2/13-210          LSFELLHAPATVCGPK
+UniRef90_A0A8B6RKG0/186-383            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RNE7/289-486            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RJ60/297-494            LSFELLHAPATVCGPK
+UniRef90_UPI0032D6DB67/316-513         LSFELLHAPATVCGPK
+UniRef90_UPI001F5FF543/1-195           LSFELLHAPATVCG--
+UniRef90_UPI0032E9392F/1-198           LSFELLHAPATVCGPK
+UniRef90_A0A8B1JAR8/346-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1J9J2/347-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K082/296-493            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RBQ2/297-494            LSFELLHAPATVCGPK
+UniRef90_UPI00211D15FD/15-212          LSFELLNAPATVCGPK
+UniRef90_A0A8B1JMH8/193-390            LSFELLHAPATVCGPK
+UniRef90_A0A8B1J2N1/347-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JCD4/347-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RF32/297-494            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RLX9/319-516            LSFELLHAPATVCGPK
+UniRef90_UPI00315B4064/13-210          LSFELLNAPATVCGPK
+UniRef90_UPI0020779CA7/1-192           LSFELLHAPATVCG--
+UniRef90_A0A8B1JB18/347-528            LSFELLHAPATVCGPK
+UniRef90_UPI0022EC9ABD/1-196           LSFELLHAPATVCGKK
+UniRef90_A0A8B1J9K4/348-528            LSFELLHAPATVCGPK
+UniRef90_UPI0028CBC139/22-219          LSFELLHAPATVCGPK
+UniRef90_A0ABF7PLN6/331-528            LSFELLNAPATVCGPK
+UniRef90_A0A8B6RM71/297-494            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RK76/291-488            LSFELLHAPATVCGPK
+UniRef90_UPI0022EC9AD4/33-229          LSFELLNAPATVCGPK
+UniRef90_A0A8B6RLM8/321-518            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RW62/323-520            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JF55/319-516            LSFELLHAPATVCGPK
+UniRef90_UPI00311CE1F7/32-229          LSFELLHAPATVCGPK
+UniRef90_A0A8B6RJ74/296-493            LSFELLHAPATVCGPK
+UniRef90_UPI003704D4B3/23-220          LSFELLHAPATVCGPK
+UniRef90_UPI0022EC9A0F/13-209          LSFELLNGPATVCGP-
+UniRef90_UPI0039A3F8B7/338-535         LSFELLHAPATVCGPK
+UniRef90_A0A7U3HFL6/331-528            XXXXXXXXXXXVCGPK
+UniRef90_UPI002A6B905C/328-525         LSFELLHAPATVCGPK
+UniRef90_A0ACD6BAD7/331-528            LSXELLNGPATVCGPK
+UniRef90_A0A8B6RJG7/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RC77/289-486            LSFELLHAPATVCGPK
+UniRef90_UPI002AC9F1EF/3-187           LSFEL-----------
+UniRef90_A0A8B6RKH7/331-528            LSFELLHAPATVCGPK
+UniRef90_A0AA50AG07/318-510            LSFELLNAPATVCGPK
+UniRef90_A0A8B1K6V9/320-517            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RVC4/331-512            ----------------
+UniRef90_A0A8B1JFX2/297-494            LSFELLHAPATVCGPK
+UniRef90_UPI00398D692C/1-190           LSFELLHAPATV----
+UniRef90_A0A8B1JF74/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K570/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JF58/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B1J0W4/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RJ10/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JYJ0/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1K4L8/330-527            LSFELLHAPATVCGPK
+UniRef90_UPI0020005B78/13-209          LSFELLNAPATVCGPK
+UniRef90_A0A8B1JFY8/331-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RXD8/289-486            LSFELLHAPATVCGPK
+UniRef90_A0A2D1PXA9/318-514            LSFELLNAPATVCGPK
+UniRef90_U5WI05/319-515                LSFELLNAPATVCGPK
+UniRef90_UPI00274030E3/307-503         LSFELLNAPATVCGPK
+UniRef90_A0A8B1K2S7/289-486            LSFELLHAPATVCGPK
+UniRef90_A0A023PUW9/322-518            LSFELLNAPATVCGPK
+UniRef90_UPI00186BC2FB/13-209          LSFELLNAPATVCGPK
+UniRef90_A0AA49X3X7/320-515            LSFELLNAPATVCGPK
+UniRef90_P59594/318-514                LSFELLNAPATVCGPK
+UniRef90_UPI0032E938E3/13-209          LSFELLNAPATVCGPK
+UniRef90_A0A8B6RLJ5/289-486            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JHI8/308-505            LSFELLHAPATVCGPK
+UniRef90_A0A7G6UAJ9/322-518            LSFELLNAPATVCGPK
+UniRef90_Q1KVI3/318-514                LSFELLNAPATVCGPK
+UniRef90_A0A8B6RC45/296-493            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RCC7/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A3Q8AKM0/321-517            LSFELLNAPATVCGPK
+UniRef90_A0A7U3DWG5/331-481            ----------------
+UniRef90_A0A8B1KVF5/297-494            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RC94/297-494            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JFP1/319-516            LSFELLHAPATVCGPK
+UniRef90_UPI0029C10071/13-206          LSFELLNAPATVCGPK
+UniRef90_A0A7R6WCE7/305-493            LSFELLNAPATVCGPK
+UniRef90_A0A8B6R9Y5/297-327            ----------------
+UniRef90_A0A8B6R9Y5/377-494            LSFELLHAPATVCGPK
+UniRef90_A0ACD6BAG6/321-514            LSFELLNAPATVCGPK
+UniRef90_UPI003F8D8F75/321-515         LSFELLNAPATVCGPK
+UniRef90_A0ACD6B8H8/322-515            LSFELLNAPATVCGPK
+UniRef90_A0A8B6RLY8/327-524            LSFELLHAPATVCGPK
+UniRef90_UPI0040535BEE/306-500         LSFQLLNAPATVCGPK
+UniRef90_UPI003F8D8FB6/306-500         LSFELLNAPATVCGPK
+UniRef90_UPI0001793A48/1-179           LSFE------------
+UniRef90_A0A8B1JFT0/365-494            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RJP7/387-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RC54/297-321            ----------------
+UniRef90_A0A8B6RC54/380-494            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RA18/297-321            ----------------
+UniRef90_A0A8B6RA18/380-494            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JFS0/297-321            ----------------
+UniRef90_A0A8B1JFS0/380-494            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JM53/289-313            ----------------
+UniRef90_A0A8B1JM53/372-486            LSFELLHAPATVCGPK
+UniRef90_A0A8B6REY4/331-461            ----------------
+UniRef90_A0A0P0INJ4/325-518            LSFELLNAPATVCGPK
+UniRef90_A0A8B1KE13/346-528            LSFELLHAPATVCGPK
+UniRef90_A0A7U3HCW3/331-418            ----------------
+UniRef90_A0A7U3HCW3/478-528            LSFELLHAPATVCGPK
+UniRef90_U5WLI7/1-166                  LSFELLNAPATVCGPK
+UniRef90_A0A8B1L7Y7/380-494            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JFS5/372-486            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JM59/380-494            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RF08/380-494            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JF17/414-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JPB5/380-494            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JA98/412-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1KWW1/279-393            LSFELLHAPATVCGPK
+UniRef90_A0AA49X5P5/322-501            LSFELLNAPATVCGPK
+UniRef90_A0AA50AFB2/47-226             LSFELLNAPATVCGPK
+UniRef90_A0A8B6RC62/296-493            LSFELLHAPATVCGPK
+UniRef90_A0A0U1WHI2/321-500            LSFELLNAPATVCGPK
+UniRef90_A0AA50AD64/322-500            LSFELLNAPATVCGPK
+UniRef90_A0A7U3EEN8/331-446            ----------------
+UniRef90_Q3I5J5/322-500                LSFELLNAPATVCGPK
+UniRef90_A0A8B6RX22/297-412            ----------------
+UniRef90_A0A7U3HDM5/331-446            ----------------
+UniRef90_A0A7U3EEK0/331-446            ----------------
+UniRef90_A0A7U3HEG2/331-445            ----------------
+UniRef90_A0A7U3HGG2/331-445            ----------------
+UniRef90_A0AA49X538/322-500            LSFELLNAPATVCGPK
+UniRef90_A0A8B1JA42/419-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1J124/419-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JCH4/419-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1KR97/419-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JBP8/419-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1J9H8/360-469            LSFELLHAPATVCGPK
+UniRef90_A0A8B1LB85/419-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RWD6/419-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1IWE7/379-488            LSFELLHAPATVCGPK
+UniRef90_A0A8B6RWE2/419-528            LSFELLHAPATVCGPK
+UniRef90_A0A2R3SUW9/326-504            LSFELLNAPATVCGPK
+UniRef90_A0A7U3DWM4/331-445            ----------------
+UniRef90_R9QTH3/322-500                LSFELLNAPATVCGPK
+UniRef90_A0ABF7PLQ0/331-446            ----------------
+UniRef90_A0AA50A7F2/317-495            LSFELLNAPATVCGPK
+UniRef90_A0A8B1JCU8/419-528            LSFELLHAPATVCGPK
+UniRef90_A0A0U1WHH0/322-500            LSFELLNAPATVCGPK
+UniRef90_UPI003CE5C94C/1-175           LSFELLNAPATVCG--
+UniRef90_A0A899KK42/420-528            LSFELLHAPATVCGPK
+UniRef90_A0A8B1JCL6/1-109              LSFELLHAPATVCGPK
+UniRef90_A0ACD6BAG0/310-488            LSFELLNAPATVCGPK
+UniRef90_A0A0U1WJY8/314-492            LSFELLNAPATVCGPK
+UniRef90_A0A0K1Z054/322-500            LSFELLNAPATVCGPK
+UniRef90_A0A0U1UYX4/317-495            LSFELLNAPATVCGPK
+UniRef90_Q0Q484/322-500                LSFELLNAPATVCGPK
+UniRef90_A0A8B1LAN5/319-516            LSFELLHAPATVCGPK
+UniRef90_A0A8B1LC10/88-196             ----------------
+UniRef90_A0A7U3RIT3/331-439            ----------------
+UniRef90_A0A8B1KSH1/331-439            ----------------
+UniRef90_Q6SRF2/318-444                ----------------
+UniRef90_U5WHW8/1-149                  LSFELLNAPATVCGPK
+UniRef90_A0AA50ADQ1/242-413            LSFELLNAX-------
+UniRef90_A0A8B1JFQ9/297-321            ----------------
+UniRef90_A0A8B1JFQ9/380-494            LSFELLHAPATVCGPK
+UniRef90_Q5GDJ5/318-380                ----------------
+UniRef90_Q5GDJ5/488-514                LSFELLNAPATVCGPK
+UniRef90_A0A8B1JHD2/404-518            LSFELLHAPATVCGPK
+UniRef90_A0A7U3VI77/352-421            ----------------
+UniRef90_Q6QHB1/213-272                ----------------
+UniRef90_A0A7U3VI26/309-334            ----------------
+UniRef90_A0A7U3VI26/388-420            ----------------
+UniRef90_A0A7U3VI26/463-487            LSFELLNAPATVCGPK
+UniRef90_A0A088DJY6/355-466            ----------------
+UniRef90_A0A7U3W0L8/310-340            ----------------
+UniRef90_A0A7U3W0L8/409-488            LSFELLNAPATVCGPK
+UniRef90_F1BYL9/372-462                ----------------
+UniRef90_A0AA49EFF8/371-471            ----------------
+UniRef90_A0A1B3Q5W5/377-468            ----------------
+UniRef90_E0ZN36/362-508                ----------------
+UniRef90_A3EXJ0/370-458                ----------------
+UniRef90_A0AA49EH99/358-463            ----------------
+UniRef90_E0ZN60/368-458                ----------------
+UniRef90_A3EXH4/366-458                ----------------
+UniRef90_A0AB38ZDR9/372-459            ----------------
+UniRef90_UPI0008A09DF1/21-110          ----------------
+UniRef90_A0A2Z4EVK1/368-455            ----------------
+UniRef90_UPI003AFB8265/38-159          ----------------
+UniRef90_A0A0A7UZR7/332-440            ----------------
+UniRef90_A0AB38ZDN1/372-458            ----------------
+UniRef90_F1DAZ9/374-466                ----------------
+UniRef90_A3EXG6/372-460                ----------------
+UniRef90_A0A2P1M5J5/366-457            ----------------
+UniRef90_A0A2H4MZ26/332-439            ----------------
+UniRef90_A0AA49EFE3/392-516            ----------------
+UniRef90_F1DAZ1/364-454                ----------------
+UniRef90_UPI0039FDE1B1/35-203          ----------------
+UniRef90_A0A2H4MXV6/331-438            ----------------
+UniRef90_S5UK74/156-251                ----------------
+UniRef90_UPI000A276D54/14-171          ----------------
+UniRef90_X2JHN8/341-433                ----------------
+UniRef90_A0A2Z4KJM2/56-149             ----------------
+UniRef90_I4DEW6/353-446                ----------------
+UniRef90_M1PF06/5-93                   ----------------
+UniRef90_A0AA49ID61/392-515            ----------------
+UniRef90_Q9DXA9/25-118                 ----------------
+UniRef90_S4WZQ4/390-559                ----------------
+UniRef90_A0A6B9CZC3/340-433            ----------------
+UniRef90_UPI003FA615D9/34-152          ----------------
+UniRef90_UPI003D81C75A/387-547         ----------------
+UniRef90_A0A866W041/324-433            ----------------
+#=GC RF                                xxxxxxxxxxxxxxxx
+//

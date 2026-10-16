@@ -1,0 +1,3494 @@
+DockQ results
+============================================
+
+Folder: 7Q3R
+Model: 7Q3R//pred.model_idx_0.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7Q3R//pred.model_idx_0.cif
+Native : ../../../../01_dataset/7Q3R.pdb
+Total DockQ over 1 native interfaces: 0.045 with AB:GA model:native mapping
+Native chains: G, A
+	Model chains: A, B
+	DockQ: 0.045
+	iRMSD: 16.940
+	LRMSD: 37.783
+	fnat: 0.079
+	fnonnat: 0.900
+	F1: 0.088
+	clashes: 0
+
+Model: 7Q3R//pred.model_idx_1.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7Q3R//pred.model_idx_1.cif
+Native : ../../../../01_dataset/7Q3R.pdb
+Total DockQ over 1 native interfaces: 0.029 with AB:GA model:native mapping
+Native chains: G, A
+	Model chains: A, B
+	DockQ: 0.029
+	iRMSD: 16.896
+	LRMSD: 37.641
+	fnat: 0.032
+	fnonnat: 0.966
+	F1: 0.033
+	clashes: 1
+
+Model: 7Q3R//pred.model_idx_2.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7Q3R//pred.model_idx_2.cif
+Native : ../../../../01_dataset/7Q3R.pdb
+Total DockQ over 1 native interfaces: 0.029 with AB:GA model:native mapping
+Native chains: G, A
+	Model chains: A, B
+	DockQ: 0.029
+	iRMSD: 16.800
+	LRMSD: 37.801
+	fnat: 0.032
+	fnonnat: 0.961
+	F1: 0.035
+	clashes: 1
+
+Model: 7Q3R//pred.model_idx_3.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7Q3R//pred.model_idx_3.cif
+Native : ../../../../01_dataset/7Q3R.pdb
+Total DockQ over 1 native interfaces: 0.032 with AB:GA model:native mapping
+Native chains: G, A
+	Model chains: A, B
+	DockQ: 0.032
+	iRMSD: 17.275
+	LRMSD: 41.757
+	fnat: 0.048
+	fnonnat: 0.939
+	F1: 0.054
+	clashes: 0
+
+Model: 7Q3R//pred.model_idx_4.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7Q3R//pred.model_idx_4.cif
+Native : ../../../../01_dataset/7Q3R.pdb
+Total DockQ over 1 native interfaces: 0.021 with AB:GA model:native mapping
+Native chains: G, A
+	Model chains: A, B
+	DockQ: 0.021
+	iRMSD: 15.665
+	LRMSD: 35.201
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+--------------------------------------------
+
+Folder: 7R1Z
+Model: 7R1Z//pred.model_idx_0.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7R1Z//pred.model_idx_0.cif
+Native : ../../../../01_dataset/7R1Z.pdb
+Total DockQ over 1 native interfaces: 0.009 with AB:AC model:native mapping
+Native chains: A, C
+	Model chains: A, B
+	DockQ: 0.009
+	iRMSD: 14.644
+	LRMSD: 65.650
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+Model: 7R1Z//pred.model_idx_1.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7R1Z//pred.model_idx_1.cif
+Native : ../../../../01_dataset/7R1Z.pdb
+Total DockQ over 1 native interfaces: 0.010 with AB:AC model:native mapping
+Native chains: A, C
+	Model chains: A, B
+	DockQ: 0.010
+	iRMSD: 14.560
+	LRMSD: 58.742
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 1
+
+Model: 7R1Z//pred.model_idx_2.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7R1Z//pred.model_idx_2.cif
+Native : ../../../../01_dataset/7R1Z.pdb
+Total DockQ over 1 native interfaces: 0.007 with AB:AC model:native mapping
+Native chains: A, C
+	Model chains: A, B
+	DockQ: 0.007
+	iRMSD: 18.284
+	LRMSD: 68.181
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+Model: 7R1Z//pred.model_idx_3.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7R1Z//pred.model_idx_3.cif
+Native : ../../../../01_dataset/7R1Z.pdb
+Total DockQ over 1 native interfaces: 0.076 with AB:AC model:native mapping
+Native chains: A, C
+	Model chains: A, B
+	DockQ: 0.076
+	iRMSD: 7.913
+	LRMSD: 31.900
+	fnat: 0.128
+	fnonnat: 0.857
+	F1: 0.135
+	clashes: 0
+
+Model: 7R1Z//pred.model_idx_4.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7R1Z//pred.model_idx_4.cif
+Native : ../../../../01_dataset/7R1Z.pdb
+Total DockQ over 1 native interfaces: 0.019 with AB:AC model:native mapping
+Native chains: A, C
+	Model chains: A, B
+	DockQ: 0.019
+	iRMSD: 11.314
+	LRMSD: 41.729
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+--------------------------------------------
+
+Folder: 7T5F
+Model: 7T5F//pred.model_idx_0.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  1.83it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  7.54it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  6.04it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7T5F//pred.model_idx_0.cif
+Native : ../../../../01_dataset/7T5F.pdb
+Total DockQ over 1 native interfaces: 0.004 with AB:FD model:native mapping
+Native chains: F, D
+	Model chains: A, B
+	DockQ: 0.004
+	iRMSD: 25.649
+	LRMSD: 84.282
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 1
+
+Model: 7T5F//pred.model_idx_1.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  1.70it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  7.06it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  5.66it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7T5F//pred.model_idx_1.cif
+Native : ../../../../01_dataset/7T5F.pdb
+Total DockQ over 1 native interfaces: 0.005 with AB:FD model:native mapping
+Native chains: F, D
+	Model chains: A, B
+	DockQ: 0.005
+	iRMSD: 24.537
+	LRMSD: 77.851
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+Model: 7T5F//pred.model_idx_2.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  1.91it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  7.77it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  6.25it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7T5F//pred.model_idx_2.cif
+Native : ../../../../01_dataset/7T5F.pdb
+Total DockQ over 1 native interfaces: 0.004 with AB:FD model:native mapping
+Native chains: F, D
+	Model chains: A, B
+	DockQ: 0.004
+	iRMSD: 25.873
+	LRMSD: 84.153
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+Model: 7T5F//pred.model_idx_3.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  1.99it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  7.82it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  6.32it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7T5F//pred.model_idx_3.cif
+Native : ../../../../01_dataset/7T5F.pdb
+Total DockQ over 1 native interfaces: 0.005 with AB:FD model:native mapping
+Native chains: F, D
+	Model chains: A, B
+	DockQ: 0.005
+	iRMSD: 25.807
+	LRMSD: 82.781
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+Model: 7T5F//pred.model_idx_4.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.20it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  8.78it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  7.09it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7T5F//pred.model_idx_4.cif
+Native : ../../../../01_dataset/7T5F.pdb
+Total DockQ over 1 native interfaces: 0.005 with AB:FD model:native mapping
+Native chains: F, D
+	Model chains: A, B
+	DockQ: 0.005
+	iRMSD: 24.580
+	LRMSD: 80.046
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 2
+
+--------------------------------------------
+
+Folder: 7TGF
+Model: 7TGF//pred.model_idx_0.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7TGF//pred.model_idx_0.cif
+Native : ../../../../01_dataset/7TGF.pdb
+Total DockQ over 1 native interfaces: 0.709 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.709
+	iRMSD: 1.283
+	LRMSD: 4.479
+	fnat: 0.768
+	fnonnat: 0.122
+	F1: 0.819
+	clashes: 1
+
+Model: 7TGF//pred.model_idx_1.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7TGF//pred.model_idx_1.cif
+Native : ../../../../01_dataset/7TGF.pdb
+Total DockQ over 1 native interfaces: 0.683 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.683
+	iRMSD: 1.434
+	LRMSD: 4.546
+	fnat: 0.750
+	fnonnat: 0.106
+	F1: 0.816
+	clashes: 0
+
+Model: 7TGF//pred.model_idx_2.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7TGF//pred.model_idx_2.cif
+Native : ../../../../01_dataset/7TGF.pdb
+Total DockQ over 1 native interfaces: 0.667 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.667
+	iRMSD: 1.457
+	LRMSD: 4.606
+	fnat: 0.714
+	fnonnat: 0.091
+	F1: 0.800
+	clashes: 1
+
+Model: 7TGF//pred.model_idx_3.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7TGF//pred.model_idx_3.cif
+Native : ../../../../01_dataset/7TGF.pdb
+Total DockQ over 1 native interfaces: 0.754 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.754
+	iRMSD: 1.168
+	LRMSD: 3.750
+	fnat: 0.804
+	fnonnat: 0.135
+	F1: 0.833
+	clashes: 1
+
+Model: 7TGF//pred.model_idx_4.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7TGF//pred.model_idx_4.cif
+Native : ../../../../01_dataset/7TGF.pdb
+Total DockQ over 1 native interfaces: 0.663 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.663
+	iRMSD: 1.457
+	LRMSD: 5.238
+	fnat: 0.750
+	fnonnat: 0.087
+	F1: 0.824
+	clashes: 1
+
+--------------------------------------------
+
+Folder: 7VNB
+Model: 7VNB//pred.model_idx_0.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7VNB//pred.model_idx_0.cif
+Native : ../../../../01_dataset/7VNB.pdb
+Total DockQ over 1 native interfaces: 0.042 with AB:BA model:native mapping
+Native chains: B, A
+	Model chains: A, B
+	DockQ: 0.042
+	iRMSD: 15.745
+	LRMSD: 35.420
+	fnat: 0.062
+	fnonnat: 0.925
+	F1: 0.068
+	clashes: 1
+
+Model: 7VNB//pred.model_idx_1.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7VNB//pred.model_idx_1.cif
+Native : ../../../../01_dataset/7VNB.pdb
+Total DockQ over 1 native interfaces: 0.041 with AB:BA model:native mapping
+Native chains: B, A
+	Model chains: A, B
+	DockQ: 0.041
+	iRMSD: 15.845
+	LRMSD: 36.822
+	fnat: 0.062
+	fnonnat: 0.929
+	F1: 0.067
+	clashes: 1
+
+Model: 7VNB//pred.model_idx_2.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7VNB//pred.model_idx_2.cif
+Native : ../../../../01_dataset/7VNB.pdb
+Total DockQ over 1 native interfaces: 0.036 with AB:BA model:native mapping
+Native chains: B, A
+	Model chains: A, B
+	DockQ: 0.036
+	iRMSD: 15.741
+	LRMSD: 36.521
+	fnat: 0.047
+	fnonnat: 0.932
+	F1: 0.056
+	clashes: 0
+
+Model: 7VNB//pred.model_idx_3.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7VNB//pred.model_idx_3.cif
+Native : ../../../../01_dataset/7VNB.pdb
+Total DockQ over 1 native interfaces: 0.035 with AB:BA model:native mapping
+Native chains: B, A
+	Model chains: A, B
+	DockQ: 0.035
+	iRMSD: 15.267
+	LRMSD: 37.484
+	fnat: 0.047
+	fnonnat: 0.943
+	F1: 0.051
+	clashes: 0
+
+Model: 7VNB//pred.model_idx_4.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 7VNB//pred.model_idx_4.cif
+Native : ../../../../01_dataset/7VNB.pdb
+Total DockQ over 1 native interfaces: 0.036 with AB:BA model:native mapping
+Native chains: B, A
+	Model chains: A, B
+	DockQ: 0.036
+	iRMSD: 15.235
+	LRMSD: 36.049
+	fnat: 0.047
+	fnonnat: 0.941
+	F1: 0.052
+	clashes: 1
+
+--------------------------------------------
+
+Folder: 8BE2
+Model: 8BE2//pred.model_idx_0.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8BE2//pred.model_idx_0.cif
+Native : ../../../../01_dataset/8BE2.pdb
+Total DockQ over 1 native interfaces: 0.731 with BA:SN model:native mapping
+Native chains: S, N
+	Model chains: B, A
+	DockQ: 0.731
+	iRMSD: 1.271
+	LRMSD: 2.618
+	fnat: 0.698
+	fnonnat: 0.288
+	F1: 0.705
+	clashes: 0
+
+Model: 8BE2//pred.model_idx_1.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8BE2//pred.model_idx_1.cif
+Native : ../../../../01_dataset/8BE2.pdb
+Total DockQ over 1 native interfaces: 0.683 with BA:SN model:native mapping
+Native chains: S, N
+	Model chains: B, A
+	DockQ: 0.683
+	iRMSD: 1.450
+	LRMSD: 3.801
+	fnat: 0.698
+	fnonnat: 0.275
+	F1: 0.712
+	clashes: 1
+
+Model: 8BE2//pred.model_idx_2.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8BE2//pred.model_idx_2.cif
+Native : ../../../../01_dataset/8BE2.pdb
+Total DockQ over 1 native interfaces: 0.688 with BA:SN model:native mapping
+Native chains: S, N
+	Model chains: B, A
+	DockQ: 0.688
+	iRMSD: 1.551
+	LRMSD: 3.117
+	fnat: 0.698
+	fnonnat: 0.302
+	F1: 0.698
+	clashes: 0
+
+Model: 8BE2//pred.model_idx_3.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8BE2//pred.model_idx_3.cif
+Native : ../../../../01_dataset/8BE2.pdb
+Total DockQ over 1 native interfaces: 0.678 with BA:SN model:native mapping
+Native chains: S, N
+	Model chains: B, A
+	DockQ: 0.678
+	iRMSD: 1.697
+	LRMSD: 2.220
+	fnat: 0.660
+	fnonnat: 0.314
+	F1: 0.673
+	clashes: 0
+
+Model: 8BE2//pred.model_idx_4.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8BE2//pred.model_idx_4.cif
+Native : ../../../../01_dataset/8BE2.pdb
+Total DockQ over 1 native interfaces: 0.010 with BA:SN model:native mapping
+Native chains: S, N
+	Model chains: B, A
+	DockQ: 0.010
+	iRMSD: 21.284
+	LRMSD: 52.314
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+--------------------------------------------
+
+Folder: 8EE2
+Model: 8EE2//pred.model_idx_0.cif
+DONE:   0%|          | 0/36 [00:00<?, ?it/s]DONE:   3%|▎         | 1/36 [00:00<00:27,  1.26it/s]DONE:  11%|█         | 4/36 [00:00<00:05,  5.47it/s]DONE:  19%|█▉        | 7/36 [00:01<00:03,  9.48it/s]DONE:  31%|███       | 11/36 [00:01<00:01, 14.26it/s]DONE:  42%|████▏     | 15/36 [00:01<00:01, 18.47it/s]DONE:  53%|█████▎    | 19/36 [00:01<00:00, 21.76it/s]DONE: 100%|██████████| 36/36 [00:01<00:00, 24.60it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8EE2//pred.model_idx_0.cif
+Native : ../../../../01_dataset/8EE2.pdb
+Total DockQ over 1 native interfaces: 0.515 with AB:LJ model:native mapping
+Native chains: L, J
+	Model chains: A, B
+	DockQ: 0.515
+	iRMSD: 2.343
+	LRMSD: 6.815
+	fnat: 0.645
+	fnonnat: 0.385
+	F1: 0.630
+	clashes: 0
+
+Model: 8EE2//pred.model_idx_1.cif
+DONE:   0%|          | 0/36 [00:00<?, ?it/s]DONE:   3%|▎         | 1/36 [00:00<00:26,  1.31it/s]DONE:  14%|█▍        | 5/36 [00:00<00:04,  7.04it/s]DONE:  25%|██▌       | 9/36 [00:01<00:02, 11.70it/s]DONE:  36%|███▌      | 13/36 [00:01<00:01, 16.32it/s]DONE:  53%|█████▎    | 19/36 [00:01<00:00, 22.96it/s]DONE: 100%|██████████| 36/36 [00:01<00:00, 26.27it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8EE2//pred.model_idx_1.cif
+Native : ../../../../01_dataset/8EE2.pdb
+Total DockQ over 1 native interfaces: 0.480 with AB:LJ model:native mapping
+Native chains: L, J
+	Model chains: A, B
+	DockQ: 0.480
+	iRMSD: 2.748
+	LRMSD: 7.708
+	fnat: 0.661
+	fnonnat: 0.406
+	F1: 0.626
+	clashes: 0
+
+Model: 8EE2//pred.model_idx_2.cif
+DONE:   0%|          | 0/36 [00:00<?, ?it/s]DONE:   3%|▎         | 1/36 [00:00<00:23,  1.49it/s]DONE:  14%|█▍        | 5/36 [00:00<00:03,  7.93it/s]DONE:  25%|██▌       | 9/36 [00:00<00:01, 13.56it/s]DONE:  39%|███▉      | 14/36 [00:01<00:01, 20.60it/s]DONE:  53%|█████▎    | 19/36 [00:01<00:00, 25.18it/s]DONE: 100%|██████████| 36/36 [00:01<00:00, 30.03it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8EE2//pred.model_idx_2.cif
+Native : ../../../../01_dataset/8EE2.pdb
+Total DockQ over 1 native interfaces: 0.597 with AB:LJ model:native mapping
+Native chains: L, J
+	Model chains: A, B
+	DockQ: 0.597
+	iRMSD: 2.028
+	LRMSD: 4.774
+	fnat: 0.677
+	fnonnat: 0.323
+	F1: 0.677
+	clashes: 0
+
+Model: 8EE2//pred.model_idx_3.cif
+DONE:   0%|          | 0/36 [00:00<?, ?it/s]DONE:   3%|▎         | 1/36 [00:00<00:25,  1.37it/s]DONE:  19%|█▉        | 7/36 [00:00<00:02,  9.77it/s]DONE:  33%|███▎      | 12/36 [00:01<00:01, 16.13it/s]DONE:  53%|█████▎    | 19/36 [00:01<00:00, 22.60it/s]DONE: 100%|██████████| 36/36 [00:01<00:00, 28.92it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8EE2//pred.model_idx_3.cif
+Native : ../../../../01_dataset/8EE2.pdb
+Total DockQ over 1 native interfaces: 0.491 with AB:LJ model:native mapping
+Native chains: L, J
+	Model chains: A, B
+	DockQ: 0.491
+	iRMSD: 2.276
+	LRMSD: 7.347
+	fnat: 0.597
+	fnonnat: 0.393
+	F1: 0.602
+	clashes: 0
+
+Model: 8EE2//pred.model_idx_4.cif
+DONE:   0%|          | 0/36 [00:00<?, ?it/s]DONE:   3%|▎         | 1/36 [00:00<00:26,  1.32it/s]DONE:  17%|█▋        | 6/36 [00:00<00:03,  8.78it/s]DONE:  25%|██▌       | 9/36 [00:00<00:02, 12.36it/s]DONE:  36%|███▌      | 13/36 [00:01<00:01, 17.31it/s]DONE:  53%|█████▎    | 19/36 [00:01<00:00, 24.77it/s]DONE: 100%|██████████| 36/36 [00:01<00:00, 28.40it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8EE2//pred.model_idx_4.cif
+Native : ../../../../01_dataset/8EE2.pdb
+Total DockQ over 1 native interfaces: 0.816 with AB:LJ model:native mapping
+Native chains: L, J
+	Model chains: A, B
+	DockQ: 0.816
+	iRMSD: 0.843
+	LRMSD: 3.581
+	fnat: 0.839
+	fnonnat: 0.103
+	F1: 0.867
+	clashes: 0
+
+--------------------------------------------
+
+Folder: 8ELN
+Model: 8ELN//pred.model_idx_0.cif
+DONE:   0%|          | 0/36 [00:00<?, ?it/s]DONE:   3%|▎         | 1/36 [00:00<00:27,  1.28it/s]DONE:  11%|█         | 4/36 [00:00<00:05,  5.68it/s]DONE:  19%|█▉        | 7/36 [00:00<00:02,  9.95it/s]DONE:  31%|███       | 11/36 [00:01<00:01, 15.13it/s]DONE:  42%|████▏     | 15/36 [00:01<00:01, 20.05it/s]DONE:  53%|█████▎    | 19/36 [00:01<00:00, 24.05it/s]DONE: 100%|██████████| 36/36 [00:01<00:00, 26.25it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8ELN//pred.model_idx_0.cif
+Native : ../../../../01_dataset/8ELN.pdb
+Total DockQ over 1 native interfaces: 0.089 with AB:DB model:native mapping
+Native chains: D, B
+	Model chains: A, B
+	DockQ: 0.089
+	iRMSD: 6.991
+	LRMSD: 25.668
+	fnat: 0.123
+	fnonnat: 0.750
+	F1: 0.165
+	clashes: 1
+
+Model: 8ELN//pred.model_idx_1.cif
+DONE:   0%|          | 0/36 [00:00<?, ?it/s]DONE:   3%|▎         | 1/36 [00:00<00:26,  1.30it/s]DONE:  14%|█▍        | 5/36 [00:00<00:04,  6.76it/s]DONE:  25%|██▌       | 9/36 [00:01<00:02, 12.38it/s]DONE:  36%|███▌      | 13/36 [00:01<00:01, 16.82it/s]DONE:  53%|█████▎    | 19/36 [00:01<00:00, 22.86it/s]DONE: 100%|██████████| 36/36 [00:01<00:00, 26.71it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8ELN//pred.model_idx_1.cif
+Native : ../../../../01_dataset/8ELN.pdb
+Total DockQ over 1 native interfaces: 0.089 with AB:DB model:native mapping
+Native chains: D, B
+	Model chains: A, B
+	DockQ: 0.089
+	iRMSD: 6.966
+	LRMSD: 25.570
+	fnat: 0.123
+	fnonnat: 0.775
+	F1: 0.159
+	clashes: 0
+
+Model: 8ELN//pred.model_idx_2.cif
+DONE:   0%|          | 0/36 [00:00<?, ?it/s]DONE:   3%|▎         | 1/36 [00:00<00:25,  1.36it/s]DONE:  14%|█▍        | 5/36 [00:00<00:04,  7.08it/s]DONE:  25%|██▌       | 9/36 [00:00<00:02, 12.78it/s]DONE:  36%|███▌      | 13/36 [00:01<00:01, 16.75it/s]DONE:  53%|█████▎    | 19/36 [00:01<00:00, 24.03it/s]DONE: 100%|██████████| 36/36 [00:01<00:00, 27.79it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8ELN//pred.model_idx_2.cif
+Native : ../../../../01_dataset/8ELN.pdb
+Total DockQ over 1 native interfaces: 0.120 with AB:GE model:native mapping
+Native chains: G, E
+	Model chains: A, B
+	DockQ: 0.120
+	iRMSD: 5.504
+	LRMSD: 22.640
+	fnat: 0.167
+	fnonnat: 0.750
+	F1: 0.200
+	clashes: 1
+
+Model: 8ELN//pred.model_idx_3.cif
+DONE:   0%|          | 0/36 [00:00<?, ?it/s]DONE:   3%|▎         | 1/36 [00:00<00:26,  1.31it/s]DONE:  14%|█▍        | 5/36 [00:00<00:04,  7.26it/s]DONE:  25%|██▌       | 9/36 [00:00<00:02, 13.02it/s]DONE:  33%|███▎      | 12/36 [00:01<00:01, 16.22it/s]DONE:  53%|█████▎    | 19/36 [00:01<00:00, 23.54it/s]DONE: 100%|██████████| 36/36 [00:01<00:00, 27.52it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8ELN//pred.model_idx_3.cif
+Native : ../../../../01_dataset/8ELN.pdb
+Total DockQ over 1 native interfaces: 0.063 with AB:HF model:native mapping
+Native chains: H, F
+	Model chains: A, B
+	DockQ: 0.063
+	iRMSD: 9.478
+	LRMSD: 22.742
+	fnat: 0.041
+	fnonnat: 0.947
+	F1: 0.046
+	clashes: 0
+
+Model: 8ELN//pred.model_idx_4.cif
+DONE:   0%|          | 0/36 [00:00<?, ?it/s]DONE:   3%|▎         | 1/36 [00:00<00:26,  1.32it/s]DONE:  14%|█▍        | 5/36 [00:00<00:04,  6.92it/s]DONE:  25%|██▌       | 9/36 [00:01<00:02, 12.24it/s]DONE:  36%|███▌      | 13/36 [00:01<00:01, 16.78it/s]DONE:  53%|█████▎    | 19/36 [00:01<00:00, 24.04it/s]DONE: 100%|██████████| 36/36 [00:01<00:00, 27.35it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8ELN//pred.model_idx_4.cif
+Native : ../../../../01_dataset/8ELN.pdb
+Total DockQ over 1 native interfaces: 0.015 with AB:CB model:native mapping
+Native chains: C, B
+	Model chains: A, B
+	DockQ: 0.015
+	iRMSD: 16.718
+	LRMSD: 43.722
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+--------------------------------------------
+
+Folder: 8ET0
+Model: 8ET0//pred.model_idx_0.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.07it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  8.24it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  6.67it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8ET0//pred.model_idx_0.cif
+Native : ../../../../01_dataset/8ET0.pdb
+Total DockQ over 1 native interfaces: 0.119 with AB:CA model:native mapping
+Native chains: C, A
+	Model chains: A, B
+	DockQ: 0.119
+	iRMSD: 7.848
+	LRMSD: 14.186
+	fnat: 0.056
+	fnonnat: 0.907
+	F1: 0.070
+	clashes: 0
+
+Model: 8ET0//pred.model_idx_1.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  1.92it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  7.68it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  6.21it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8ET0//pred.model_idx_1.cif
+Native : ../../../../01_dataset/8ET0.pdb
+Total DockQ over 1 native interfaces: 0.042 with AB:DB model:native mapping
+Native chains: D, B
+	Model chains: A, B
+	DockQ: 0.042
+	iRMSD: 12.992
+	LRMSD: 34.328
+	fnat: 0.056
+	fnonnat: 0.915
+	F1: 0.068
+	clashes: 1
+
+Model: 8ET0//pred.model_idx_2.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  1.80it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  7.29it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  5.88it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8ET0//pred.model_idx_2.cif
+Native : ../../../../01_dataset/8ET0.pdb
+Total DockQ over 1 native interfaces: 0.092 with AB:DB model:native mapping
+Native chains: D, B
+	Model chains: A, B
+	DockQ: 0.092
+	iRMSD: 6.250
+	LRMSD: 20.086
+	fnat: 0.070
+	fnonnat: 0.921
+	F1: 0.075
+	clashes: 3
+
+Model: 8ET0//pred.model_idx_3.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  1.94it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  6.77it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8ET0//pred.model_idx_3.cif
+Native : ../../../../01_dataset/8ET0.pdb
+Total DockQ over 1 native interfaces: 0.108 with AB:CA model:native mapping
+Native chains: C, A
+	Model chains: A, B
+	DockQ: 0.108
+	iRMSD: 8.948
+	LRMSD: 19.812
+	fnat: 0.141
+	fnonnat: 0.750
+	F1: 0.180
+	clashes: 0
+
+Model: 8ET0//pred.model_idx_4.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.03it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  8.16it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  6.57it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8ET0//pred.model_idx_4.cif
+Native : ../../../../01_dataset/8ET0.pdb
+Total DockQ over 1 native interfaces: 0.006 with AB:DB model:native mapping
+Native chains: D, B
+	Model chains: A, B
+	DockQ: 0.006
+	iRMSD: 26.860
+	LRMSD: 68.449
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+--------------------------------------------
+
+Folder: 8F6U
+Model: 8F6U//pred.model_idx_0.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.06it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  7.01it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8F6U//pred.model_idx_0.cif
+Native : ../../../../01_dataset/8F6U.pdb
+Total DockQ over 1 native interfaces: 0.029 with AB:CA model:native mapping
+Native chains: C, A
+	Model chains: A, B
+	DockQ: 0.029
+	iRMSD: 10.556
+	LRMSD: 31.754
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+Model: 8F6U//pred.model_idx_1.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  1.93it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  6.74it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8F6U//pred.model_idx_1.cif
+Native : ../../../../01_dataset/8F6U.pdb
+Total DockQ over 1 native interfaces: 0.036 with AB:CA model:native mapping
+Native chains: C, A
+	Model chains: A, B
+	DockQ: 0.036
+	iRMSD: 13.522
+	LRMSD: 25.944
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+Model: 8F6U//pred.model_idx_2.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.22it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  7.48it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8F6U//pred.model_idx_2.cif
+Native : ../../../../01_dataset/8F6U.pdb
+Total DockQ over 1 native interfaces: 0.029 with AB:CA model:native mapping
+Native chains: C, A
+	Model chains: A, B
+	DockQ: 0.029
+	iRMSD: 13.537
+	LRMSD: 29.916
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 1
+
+Model: 8F6U//pred.model_idx_3.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.13it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  7.24it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8F6U//pred.model_idx_3.cif
+Native : ../../../../01_dataset/8F6U.pdb
+Total DockQ over 1 native interfaces: 0.035 with AB:CA model:native mapping
+Native chains: C, A
+	Model chains: A, B
+	DockQ: 0.035
+	iRMSD: 12.829
+	LRMSD: 26.587
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 1
+
+Model: 8F6U//pred.model_idx_4.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.15it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  7.18it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8F6U//pred.model_idx_4.cif
+Native : ../../../../01_dataset/8F6U.pdb
+Total DockQ over 1 native interfaces: 0.029 with AB:CA model:native mapping
+Native chains: C, A
+	Model chains: A, B
+	DockQ: 0.029
+	iRMSD: 13.536
+	LRMSD: 29.868
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+--------------------------------------------
+
+Folder: 8F6V
+Model: 8F6V//pred.model_idx_0.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  1.96it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  6.83it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8F6V//pred.model_idx_0.cif
+Native : ../../../../01_dataset/8F6V.pdb
+Total DockQ over 1 native interfaces: 0.048 with AB:DB model:native mapping
+Native chains: D, B
+	Model chains: A, B
+	DockQ: 0.048
+	iRMSD: 12.112
+	LRMSD: 27.688
+	fnat: 0.042
+	fnonnat: 0.964
+	F1: 0.038
+	clashes: 1
+
+Model: 8F6V//pred.model_idx_1.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.14it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  7.23it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8F6V//pred.model_idx_1.cif
+Native : ../../../../01_dataset/8F6V.pdb
+Total DockQ over 1 native interfaces: 0.014 with AB:DB model:native mapping
+Native chains: D, B
+	Model chains: A, B
+	DockQ: 0.014
+	iRMSD: 13.703
+	LRMSD: 47.188
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+Model: 8F6V//pred.model_idx_2.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.21it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  7.61it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8F6V//pred.model_idx_2.cif
+Native : ../../../../01_dataset/8F6V.pdb
+Total DockQ over 1 native interfaces: 0.015 with AB:DB model:native mapping
+Native chains: D, B
+	Model chains: A, B
+	DockQ: 0.015
+	iRMSD: 12.637
+	LRMSD: 46.585
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+Model: 8F6V//pred.model_idx_3.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  1.86it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  6.52it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8F6V//pred.model_idx_3.cif
+Native : ../../../../01_dataset/8F6V.pdb
+Total DockQ over 1 native interfaces: 0.028 with AB:CA model:native mapping
+Native chains: C, A
+	Model chains: A, B
+	DockQ: 0.028
+	iRMSD: 13.899
+	LRMSD: 48.774
+	fnat: 0.042
+	fnonnat: 0.952
+	F1: 0.044
+	clashes: 0
+
+Model: 8F6V//pred.model_idx_4.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  1.88it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  6.54it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8F6V//pred.model_idx_4.cif
+Native : ../../../../01_dataset/8F6V.pdb
+Total DockQ over 1 native interfaces: 0.016 with AB:CA model:native mapping
+Native chains: C, A
+	Model chains: A, B
+	DockQ: 0.016
+	iRMSD: 13.293
+	LRMSD: 45.074
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+--------------------------------------------
+
+Folder: 8G0I
+Model: 8G0I//pred.model_idx_0.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8G0I//pred.model_idx_0.cif
+Native : ../../../../01_dataset/8G0I.pdb
+Total DockQ over 1 native interfaces: 0.008 with BA:AD model:native mapping
+Native chains: A, D
+	Model chains: B, A
+	DockQ: 0.008
+	iRMSD: 16.952
+	LRMSD: 64.567
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 1
+
+Model: 8G0I//pred.model_idx_1.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8G0I//pred.model_idx_1.cif
+Native : ../../../../01_dataset/8G0I.pdb
+Total DockQ over 1 native interfaces: 0.009 with BA:AD model:native mapping
+Native chains: A, D
+	Model chains: B, A
+	DockQ: 0.009
+	iRMSD: 16.494
+	LRMSD: 63.462
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 1
+
+Model: 8G0I//pred.model_idx_2.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8G0I//pred.model_idx_2.cif
+Native : ../../../../01_dataset/8G0I.pdb
+Total DockQ over 1 native interfaces: 0.008 with BA:AD model:native mapping
+Native chains: A, D
+	Model chains: B, A
+	DockQ: 0.008
+	iRMSD: 17.227
+	LRMSD: 65.133
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+Model: 8G0I//pred.model_idx_3.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8G0I//pred.model_idx_3.cif
+Native : ../../../../01_dataset/8G0I.pdb
+Total DockQ over 1 native interfaces: 0.008 with BA:AD model:native mapping
+Native chains: A, D
+	Model chains: B, A
+	DockQ: 0.008
+	iRMSD: 18.436
+	LRMSD: 63.078
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 1
+
+Model: 8G0I//pred.model_idx_4.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8G0I//pred.model_idx_4.cif
+Native : ../../../../01_dataset/8G0I.pdb
+Total DockQ over 1 native interfaces: 0.009 with BA:AD model:native mapping
+Native chains: A, D
+	Model chains: B, A
+	DockQ: 0.009
+	iRMSD: 16.007
+	LRMSD: 61.473
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+--------------------------------------------
+
+Folder: 8H63
+Model: 8H63//pred.model_idx_0.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8H63//pred.model_idx_0.cif
+Native : ../../../../01_dataset/8H63.pdb
+Total DockQ over 1 native interfaces: 0.690 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.690
+	iRMSD: 1.491
+	LRMSD: 2.894
+	fnat: 0.671
+	fnonnat: 0.310
+	F1: 0.681
+	clashes: 1
+
+Model: 8H63//pred.model_idx_1.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8H63//pred.model_idx_1.cif
+Native : ../../../../01_dataset/8H63.pdb
+Total DockQ over 1 native interfaces: 0.732 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.732
+	iRMSD: 1.311
+	LRMSD: 2.301
+	fnat: 0.699
+	fnonnat: 0.346
+	F1: 0.675
+	clashes: 0
+
+Model: 8H63//pred.model_idx_2.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8H63//pred.model_idx_2.cif
+Native : ../../../../01_dataset/8H63.pdb
+Total DockQ over 1 native interfaces: 0.745 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.745
+	iRMSD: 1.305
+	LRMSD: 2.420
+	fnat: 0.740
+	fnonnat: 0.357
+	F1: 0.688
+	clashes: 0
+
+Model: 8H63//pred.model_idx_3.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8H63//pred.model_idx_3.cif
+Native : ../../../../01_dataset/8H63.pdb
+Total DockQ over 1 native interfaces: 0.710 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.710
+	iRMSD: 1.438
+	LRMSD: 3.478
+	fnat: 0.753
+	fnonnat: 0.353
+	F1: 0.696
+	clashes: 1
+
+Model: 8H63//pred.model_idx_4.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8H63//pred.model_idx_4.cif
+Native : ../../../../01_dataset/8H63.pdb
+Total DockQ over 1 native interfaces: 0.762 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.762
+	iRMSD: 1.313
+	LRMSD: 2.435
+	fnat: 0.795
+	fnonnat: 0.333
+	F1: 0.725
+	clashes: 0
+
+--------------------------------------------
+
+Folder: 8PE2
+Model: 8PE2//pred.model_idx_0.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8PE2//pred.model_idx_0.cif
+Native : ../../../../01_dataset/8PE2.pdb
+Total DockQ over 1 native interfaces: 0.056 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.056
+	iRMSD: 9.096
+	LRMSD: 23.127
+	fnat: 0.023
+	fnonnat: 0.972
+	F1: 0.025
+	clashes: 3
+
+Model: 8PE2//pred.model_idx_1.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8PE2//pred.model_idx_1.cif
+Native : ../../../../01_dataset/8PE2.pdb
+Total DockQ over 1 native interfaces: 0.051 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.051
+	iRMSD: 8.609
+	LRMSD: 25.508
+	fnat: 0.023
+	fnonnat: 0.970
+	F1: 0.026
+	clashes: 1
+
+Model: 8PE2//pred.model_idx_2.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8PE2//pred.model_idx_2.cif
+Native : ../../../../01_dataset/8PE2.pdb
+Total DockQ over 1 native interfaces: 0.053 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.053
+	iRMSD: 8.891
+	LRMSD: 23.127
+	fnat: 0.011
+	fnonnat: 0.985
+	F1: 0.013
+	clashes: 3
+
+Model: 8PE2//pred.model_idx_3.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8PE2//pred.model_idx_3.cif
+Native : ../../../../01_dataset/8PE2.pdb
+Total DockQ over 1 native interfaces: 0.105 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.105
+	iRMSD: 6.760
+	LRMSD: 16.411
+	fnat: 0.057
+	fnonnat: 0.928
+	F1: 0.064
+	clashes: 2
+
+Model: 8PE2//pred.model_idx_4.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8PE2//pred.model_idx_4.cif
+Native : ../../../../01_dataset/8PE2.pdb
+Total DockQ over 1 native interfaces: 0.021 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.021
+	iRMSD: 14.022
+	LRMSD: 36.663
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+--------------------------------------------
+
+Folder: 8PIH
+Model: 8PIH//pred.model_idx_0.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8PIH//pred.model_idx_0.cif
+Native : ../../../../01_dataset/8PIH.pdb
+Total DockQ over 1 native interfaces: 0.904 with AB:CA model:native mapping
+Native chains: C, A
+	Model chains: A, B
+	DockQ: 0.904
+	iRMSD: 0.803
+	LRMSD: 1.468
+	fnat: 0.964
+	fnonnat: 0.197
+	F1: 0.876
+	clashes: 0
+
+Model: 8PIH//pred.model_idx_1.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8PIH//pred.model_idx_1.cif
+Native : ../../../../01_dataset/8PIH.pdb
+Total DockQ over 1 native interfaces: 0.896 with AB:CA model:native mapping
+Native chains: C, A
+	Model chains: A, B
+	DockQ: 0.896
+	iRMSD: 0.742
+	LRMSD: 1.366
+	fnat: 0.909
+	fnonnat: 0.219
+	F1: 0.840
+	clashes: 0
+
+Model: 8PIH//pred.model_idx_2.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8PIH//pred.model_idx_2.cif
+Native : ../../../../01_dataset/8PIH.pdb
+Total DockQ over 1 native interfaces: 0.873 with AB:CA model:native mapping
+Native chains: C, A
+	Model chains: A, B
+	DockQ: 0.873
+	iRMSD: 0.861
+	LRMSD: 2.458
+	fnat: 0.945
+	fnonnat: 0.257
+	F1: 0.832
+	clashes: 0
+
+Model: 8PIH//pred.model_idx_3.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8PIH//pred.model_idx_3.cif
+Native : ../../../../01_dataset/8PIH.pdb
+Total DockQ over 1 native interfaces: 0.909 with AB:CA model:native mapping
+Native chains: C, A
+	Model chains: A, B
+	DockQ: 0.909
+	iRMSD: 0.730
+	LRMSD: 1.435
+	fnat: 0.945
+	fnonnat: 0.224
+	F1: 0.852
+	clashes: 0
+
+Model: 8PIH//pred.model_idx_4.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8PIH//pred.model_idx_4.cif
+Native : ../../../../01_dataset/8PIH.pdb
+Total DockQ over 1 native interfaces: 0.865 with AB:CA model:native mapping
+Native chains: C, A
+	Model chains: A, B
+	DockQ: 0.865
+	iRMSD: 0.910
+	LRMSD: 1.833
+	fnat: 0.909
+	fnonnat: 0.296
+	F1: 0.794
+	clashes: 0
+
+--------------------------------------------
+
+Folder: 8Q95
+Model: 8Q95//pred.model_idx_0.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8Q95//pred.model_idx_0.cif
+Native : ../../../../01_dataset/8Q95.pdb
+Total DockQ over 1 native interfaces: 0.866 with AB:AC model:native mapping
+Native chains: A, C
+	Model chains: A, B
+	DockQ: 0.866
+	iRMSD: 0.735
+	LRMSD: 2.390
+	fnat: 0.864
+	fnonnat: 0.136
+	F1: 0.864
+	clashes: 0
+
+Model: 8Q95//pred.model_idx_1.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8Q95//pred.model_idx_1.cif
+Native : ../../../../01_dataset/8Q95.pdb
+Total DockQ over 1 native interfaces: 0.847 with AB:AC model:native mapping
+Native chains: A, C
+	Model chains: A, B
+	DockQ: 0.847
+	iRMSD: 0.748
+	LRMSD: 3.184
+	fnat: 0.864
+	fnonnat: 0.156
+	F1: 0.854
+	clashes: 0
+
+Model: 8Q95//pred.model_idx_2.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8Q95//pred.model_idx_2.cif
+Native : ../../../../01_dataset/8Q95.pdb
+Total DockQ over 1 native interfaces: 0.850 with AB:AC model:native mapping
+Native chains: A, C
+	Model chains: A, B
+	DockQ: 0.850
+	iRMSD: 0.748
+	LRMSD: 3.053
+	fnat: 0.864
+	fnonnat: 0.095
+	F1: 0.884
+	clashes: 0
+
+Model: 8Q95//pred.model_idx_3.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8Q95//pred.model_idx_3.cif
+Native : ../../../../01_dataset/8Q95.pdb
+Total DockQ over 1 native interfaces: 0.793 with AB:AC model:native mapping
+Native chains: A, C
+	Model chains: A, B
+	DockQ: 0.793
+	iRMSD: 0.887
+	LRMSD: 3.994
+	fnat: 0.818
+	fnonnat: 0.100
+	F1: 0.857
+	clashes: 0
+
+Model: 8Q95//pred.model_idx_4.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8Q95//pred.model_idx_4.cif
+Native : ../../../../01_dataset/8Q95.pdb
+Total DockQ over 1 native interfaces: 0.816 with AB:AC model:native mapping
+Native chains: A, C
+	Model chains: A, B
+	DockQ: 0.816
+	iRMSD: 0.819
+	LRMSD: 3.414
+	fnat: 0.818
+	fnonnat: 0.122
+	F1: 0.847
+	clashes: 0
+
+--------------------------------------------
+
+Folder: 8QF5
+Model: 8QF5//pred.model_idx_0.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.36it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  8.82it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8QF5//pred.model_idx_0.cif
+Native : ../../../../01_dataset/8QF5.pdb
+Total DockQ over 1 native interfaces: 0.074 with AB:HG model:native mapping
+Native chains: H, G
+	Model chains: A, B
+	DockQ: 0.074
+	iRMSD: 11.105
+	LRMSD: 24.320
+	fnat: 0.095
+	fnonnat: 0.829
+	F1: 0.122
+	clashes: 0
+
+Model: 8QF5//pred.model_idx_1.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.23it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  8.14it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8QF5//pred.model_idx_1.cif
+Native : ../../../../01_dataset/8QF5.pdb
+Total DockQ over 1 native interfaces: 0.109 with AB:HG model:native mapping
+Native chains: H, G
+	Model chains: A, B
+	DockQ: 0.109
+	iRMSD: 9.887
+	LRMSD: 20.753
+	fnat: 0.162
+	fnonnat: 0.782
+	F1: 0.186
+	clashes: 0
+
+Model: 8QF5//pred.model_idx_2.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.19it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  8.11it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8QF5//pred.model_idx_2.cif
+Native : ../../../../01_dataset/8QF5.pdb
+Total DockQ over 1 native interfaces: 0.114 with AB:HG model:native mapping
+Native chains: H, G
+	Model chains: A, B
+	DockQ: 0.114
+	iRMSD: 9.701
+	LRMSD: 20.772
+	fnat: 0.176
+	fnonnat: 0.787
+	F1: 0.193
+	clashes: 1
+
+Model: 8QF5//pred.model_idx_3.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.30it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  8.32it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8QF5//pred.model_idx_3.cif
+Native : ../../../../01_dataset/8QF5.pdb
+Total DockQ over 1 native interfaces: 0.114 with AB:HG model:native mapping
+Native chains: H, G
+	Model chains: A, B
+	DockQ: 0.114
+	iRMSD: 8.688
+	LRMSD: 18.236
+	fnat: 0.135
+	fnonnat: 0.875
+	F1: 0.130
+	clashes: 1
+
+Model: 8QF5//pred.model_idx_4.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.19it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  8.30it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8QF5//pred.model_idx_4.cif
+Native : ../../../../01_dataset/8QF5.pdb
+Total DockQ over 1 native interfaces: 0.044 with AB:HG model:native mapping
+Native chains: H, G
+	Model chains: A, B
+	DockQ: 0.044
+	iRMSD: 12.991
+	LRMSD: 24.762
+	fnat: 0.014
+	fnonnat: 0.977
+	F1: 0.017
+	clashes: 1
+
+--------------------------------------------
+
+Folder: 8WEO
+Model: 8WEO//pred.model_idx_0.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.15it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  7.49it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8WEO//pred.model_idx_0.cif
+Native : ../../../../01_dataset/8WEO.pdb
+Total DockQ over 1 native interfaces: 0.921 with AB:DA model:native mapping
+Native chains: D, A
+	Model chains: A, B
+	DockQ: 0.921
+	iRMSD: 0.573
+	LRMSD: 1.929
+	fnat: 0.939
+	fnonnat: 0.101
+	F1: 0.919
+	clashes: 0
+
+Model: 8WEO//pred.model_idx_1.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  1.97it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  7.02it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8WEO//pred.model_idx_1.cif
+Native : ../../../../01_dataset/8WEO.pdb
+Total DockQ over 1 native interfaces: 0.885 with AB:DA model:native mapping
+Native chains: D, A
+	Model chains: A, B
+	DockQ: 0.885
+	iRMSD: 0.769
+	LRMSD: 2.690
+	fnat: 0.955
+	fnonnat: 0.087
+	F1: 0.933
+	clashes: 0
+
+Model: 8WEO//pred.model_idx_2.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  1.93it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  6.76it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8WEO//pred.model_idx_2.cif
+Native : ../../../../01_dataset/8WEO.pdb
+Total DockQ over 1 native interfaces: 0.904 with AB:DA model:native mapping
+Native chains: D, A
+	Model chains: A, B
+	DockQ: 0.904
+	iRMSD: 0.659
+	LRMSD: 2.238
+	fnat: 0.939
+	fnonnat: 0.075
+	F1: 0.932
+	clashes: 0
+
+Model: 8WEO//pred.model_idx_3.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.39it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  8.37it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8WEO//pred.model_idx_3.cif
+Native : ../../../../01_dataset/8WEO.pdb
+Total DockQ over 1 native interfaces: 0.943 with AB:DA model:native mapping
+Native chains: D, A
+	Model chains: A, B
+	DockQ: 0.943
+	iRMSD: 0.540
+	LRMSD: 1.768
+	fnat: 0.985
+	fnonnat: 0.122
+	F1: 0.929
+	clashes: 0
+
+Model: 8WEO//pred.model_idx_4.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.01it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  7.08it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8WEO//pred.model_idx_4.cif
+Native : ../../../../01_dataset/8WEO.pdb
+Total DockQ over 1 native interfaces: 0.882 with AB:DA model:native mapping
+Native chains: D, A
+	Model chains: A, B
+	DockQ: 0.882
+	iRMSD: 0.767
+	LRMSD: 2.371
+	fnat: 0.924
+	fnonnat: 0.076
+	F1: 0.924
+	clashes: 0
+
+--------------------------------------------
+
+Folder: 8Z2E
+Model: 8Z2E//pred.model_idx_0.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8Z2E//pred.model_idx_0.cif
+Native : ../../../../01_dataset/8Z2E.pdb
+Total DockQ over 1 native interfaces: 0.752 with AB:EB model:native mapping
+Native chains: E, B
+	Model chains: A, B
+	DockQ: 0.752
+	iRMSD: 1.037
+	LRMSD: 6.155
+	fnat: 0.923
+	fnonnat: 0.143
+	F1: 0.889
+	clashes: 0
+
+Model: 8Z2E//pred.model_idx_1.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8Z2E//pred.model_idx_1.cif
+Native : ../../../../01_dataset/8Z2E.pdb
+Total DockQ over 1 native interfaces: 0.741 with AB:EB model:native mapping
+Native chains: E, B
+	Model chains: A, B
+	DockQ: 0.741
+	iRMSD: 1.074
+	LRMSD: 5.852
+	fnat: 0.885
+	fnonnat: 0.115
+	F1: 0.885
+	clashes: 0
+
+Model: 8Z2E//pred.model_idx_2.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8Z2E//pred.model_idx_2.cif
+Native : ../../../../01_dataset/8Z2E.pdb
+Total DockQ over 1 native interfaces: 0.798 with AB:EB model:native mapping
+Native chains: E, B
+	Model chains: A, B
+	DockQ: 0.798
+	iRMSD: 0.933
+	LRMSD: 5.180
+	fnat: 0.942
+	fnonnat: 0.075
+	F1: 0.933
+	clashes: 0
+
+Model: 8Z2E//pred.model_idx_3.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8Z2E//pred.model_idx_3.cif
+Native : ../../../../01_dataset/8Z2E.pdb
+Total DockQ over 1 native interfaces: 0.813 with AB:EB model:native mapping
+Native chains: E, B
+	Model chains: A, B
+	DockQ: 0.813
+	iRMSD: 0.859
+	LRMSD: 4.473
+	fnat: 0.904
+	fnonnat: 0.096
+	F1: 0.904
+	clashes: 0
+
+Model: 8Z2E//pred.model_idx_4.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 8Z2E//pred.model_idx_4.cif
+Native : ../../../../01_dataset/8Z2E.pdb
+Total DockQ over 1 native interfaces: 0.774 with AB:EB model:native mapping
+Native chains: E, B
+	Model chains: A, B
+	DockQ: 0.774
+	iRMSD: 0.993
+	LRMSD: 5.790
+	fnat: 0.942
+	fnonnat: 0.093
+	F1: 0.925
+	clashes: 0
+
+--------------------------------------------
+
+Folder: 9H39
+Model: 9H39//pred.model_idx_0.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.20it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  7.65it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9H39//pred.model_idx_0.cif
+Native : ../../../../01_dataset/9H39.pdb
+Total DockQ over 1 native interfaces: 0.019 with AB:DB model:native mapping
+Native chains: D, B
+	Model chains: A, B
+	DockQ: 0.019
+	iRMSD: 16.688
+	LRMSD: 37.060
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+Model: 9H39//pred.model_idx_1.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.29it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  8.05it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9H39//pred.model_idx_1.cif
+Native : ../../../../01_dataset/9H39.pdb
+Total DockQ over 1 native interfaces: 0.023 with AB:DB model:native mapping
+Native chains: D, B
+	Model chains: A, B
+	DockQ: 0.023
+	iRMSD: 15.856
+	LRMSD: 33.597
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+Model: 9H39//pred.model_idx_2.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.01it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  6.99it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9H39//pred.model_idx_2.cif
+Native : ../../../../01_dataset/9H39.pdb
+Total DockQ over 1 native interfaces: 0.025 with AB:DB model:native mapping
+Native chains: D, B
+	Model chains: A, B
+	DockQ: 0.025
+	iRMSD: 15.559
+	LRMSD: 32.241
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 1
+
+Model: 9H39//pred.model_idx_3.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  2.55it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  8.80it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9H39//pred.model_idx_3.cif
+Native : ../../../../01_dataset/9H39.pdb
+Total DockQ over 1 native interfaces: 0.018 with AB:DB model:native mapping
+Native chains: D, B
+	Model chains: A, B
+	DockQ: 0.018
+	iRMSD: 15.748
+	LRMSD: 39.713
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+Model: 9H39//pred.model_idx_4.cif
+DONE:   0%|          | 0/4 [00:00<?, ?it/s]DONE:  25%|██▌       | 1/4 [00:00<00:01,  1.98it/s]DONE: 100%|██████████| 4/4 [00:00<00:00,  6.97it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9H39//pred.model_idx_4.cif
+Native : ../../../../01_dataset/9H39.pdb
+Total DockQ over 1 native interfaces: 0.066 with AB:DB model:native mapping
+Native chains: D, B
+	Model chains: A, B
+	DockQ: 0.066
+	iRMSD: 8.942
+	LRMSD: 40.512
+	fnat: 0.128
+	fnonnat: 0.824
+	F1: 0.148
+	clashes: 0
+
+--------------------------------------------
+
+Folder: 9HO4
+Model: 9HO4//pred.model_idx_0.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9HO4//pred.model_idx_0.cif
+Native : ../../../../01_dataset/9HO4.pdb
+Total DockQ over 1 native interfaces: 0.502 with BA:AC model:native mapping
+Native chains: A, C
+	Model chains: B, A
+	DockQ: 0.502
+	iRMSD: 3.562
+	LRMSD: 6.638
+	fnat: 0.733
+	fnonnat: 0.353
+	F1: 0.688
+	clashes: 1
+
+Model: 9HO4//pred.model_idx_1.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9HO4//pred.model_idx_1.cif
+Native : ../../../../01_dataset/9HO4.pdb
+Total DockQ over 1 native interfaces: 0.117 with BA:AC model:native mapping
+Native chains: A, C
+	Model chains: B, A
+	DockQ: 0.117
+	iRMSD: 5.632
+	LRMSD: 17.866
+	fnat: 0.100
+	fnonnat: 0.889
+	F1: 0.105
+	clashes: 1
+
+Model: 9HO4//pred.model_idx_2.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9HO4//pred.model_idx_2.cif
+Native : ../../../../01_dataset/9HO4.pdb
+Total DockQ over 1 native interfaces: 0.090 with BA:AC model:native mapping
+Native chains: A, C
+	Model chains: B, A
+	DockQ: 0.090
+	iRMSD: 6.000
+	LRMSD: 23.976
+	fnat: 0.100
+	fnonnat: 0.872
+	F1: 0.112
+	clashes: 0
+
+Model: 9HO4//pred.model_idx_3.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9HO4//pred.model_idx_3.cif
+Native : ../../../../01_dataset/9HO4.pdb
+Total DockQ over 1 native interfaces: 0.119 with BA:AC model:native mapping
+Native chains: A, C
+	Model chains: B, A
+	DockQ: 0.119
+	iRMSD: 5.328
+	LRMSD: 20.327
+	fnat: 0.133
+	fnonnat: 0.852
+	F1: 0.140
+	clashes: 1
+
+Model: 9HO4//pred.model_idx_4.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9HO4//pred.model_idx_4.cif
+Native : ../../../../01_dataset/9HO4.pdb
+Total DockQ over 1 native interfaces: 0.578 with BA:AC model:native mapping
+Native chains: A, C
+	Model chains: B, A
+	DockQ: 0.578
+	iRMSD: 2.897
+	LRMSD: 4.609
+	fnat: 0.750
+	fnonnat: 0.438
+	F1: 0.643
+	clashes: 2
+
+--------------------------------------------
+
+Folder: 9HO5
+Model: 9HO5//pred.model_idx_0.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9HO5//pred.model_idx_0.cif
+Native : ../../../../01_dataset/9HO5.pdb
+Total DockQ over 1 native interfaces: 0.215 with AB:AC model:native mapping
+Native chains: A, C
+	Model chains: A, B
+	DockQ: 0.215
+	iRMSD: 3.763
+	LRMSD: 14.056
+	fnat: 0.241
+	fnonnat: 0.741
+	F1: 0.250
+	clashes: 1
+
+Model: 9HO5//pred.model_idx_1.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9HO5//pred.model_idx_1.cif
+Native : ../../../../01_dataset/9HO5.pdb
+Total DockQ over 1 native interfaces: 0.186 with AB:AC model:native mapping
+Native chains: A, C
+	Model chains: A, B
+	DockQ: 0.186
+	iRMSD: 3.991
+	LRMSD: 14.924
+	fnat: 0.190
+	fnonnat: 0.750
+	F1: 0.216
+	clashes: 0
+
+Model: 9HO5//pred.model_idx_2.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9HO5//pred.model_idx_2.cif
+Native : ../../../../01_dataset/9HO5.pdb
+Total DockQ over 1 native interfaces: 0.166 with AB:AC model:native mapping
+Native chains: A, C
+	Model chains: A, B
+	DockQ: 0.166
+	iRMSD: 4.505
+	LRMSD: 16.540
+	fnat: 0.190
+	fnonnat: 0.766
+	F1: 0.210
+	clashes: 0
+
+Model: 9HO5//pred.model_idx_3.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9HO5//pred.model_idx_3.cif
+Native : ../../../../01_dataset/9HO5.pdb
+Total DockQ over 1 native interfaces: 0.143 with AB:AC model:native mapping
+Native chains: A, C
+	Model chains: A, B
+	DockQ: 0.143
+	iRMSD: 4.974
+	LRMSD: 18.496
+	fnat: 0.172
+	fnonnat: 0.792
+	F1: 0.189
+	clashes: 0
+
+Model: 9HO5//pred.model_idx_4.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9HO5//pred.model_idx_4.cif
+Native : ../../../../01_dataset/9HO5.pdb
+Total DockQ over 1 native interfaces: 0.160 with AB:AC model:native mapping
+Native chains: A, C
+	Model chains: A, B
+	DockQ: 0.160
+	iRMSD: 4.531
+	LRMSD: 16.526
+	fnat: 0.172
+	fnonnat: 0.767
+	F1: 0.198
+	clashes: 0
+
+--------------------------------------------
+
+Folder: 9IQP
+Model: 9IQP//pred.model_idx_0.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9IQP//pred.model_idx_0.cif
+Native : ../../../../01_dataset/9IQP.pdb
+Total DockQ over 1 native interfaces: 0.069 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.069
+	iRMSD: 10.114
+	LRMSD: 29.846
+	fnat: 0.111
+	fnonnat: 0.901
+	F1: 0.104
+	clashes: 2
+
+Model: 9IQP//pred.model_idx_1.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9IQP//pred.model_idx_1.cif
+Native : ../../../../01_dataset/9IQP.pdb
+Total DockQ over 1 native interfaces: 0.058 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.058
+	iRMSD: 12.063
+	LRMSD: 37.516
+	fnat: 0.111
+	fnonnat: 0.896
+	F1: 0.108
+	clashes: 0
+
+Model: 9IQP//pred.model_idx_2.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9IQP//pred.model_idx_2.cif
+Native : ../../../../01_dataset/9IQP.pdb
+Total DockQ over 1 native interfaces: 0.061 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.061
+	iRMSD: 12.813
+	LRMSD: 30.316
+	fnat: 0.095
+	fnonnat: 0.900
+	F1: 0.098
+	clashes: 0
+
+Model: 9IQP//pred.model_idx_3.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9IQP//pred.model_idx_3.cif
+Native : ../../../../01_dataset/9IQP.pdb
+Total DockQ over 1 native interfaces: 0.038 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.038
+	iRMSD: 13.279
+	LRMSD: 42.247
+	fnat: 0.063
+	fnonnat: 0.929
+	F1: 0.067
+	clashes: 0
+
+Model: 9IQP//pred.model_idx_4.cif
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9IQP//pred.model_idx_4.cif
+Native : ../../../../01_dataset/9IQP.pdb
+Total DockQ over 1 native interfaces: 0.025 with BA:AB model:native mapping
+Native chains: A, B
+	Model chains: B, A
+	DockQ: 0.025
+	iRMSD: 12.879
+	LRMSD: 38.685
+	fnat: 0.016
+	fnonnat: 0.980
+	F1: 0.018
+	clashes: 0
+
+--------------------------------------------
+
+Folder: 9NN9
+Model: 9NN9//pred.model_idx_0.cif
+DONE:   0%|          | 0/9 [00:00<?, ?it/s]DONE:  11%|█         | 1/9 [00:00<00:05,  1.51it/s]DONE:  67%|██████▋   | 6/9 [00:00<00:00,  9.95it/s]DONE: 100%|██████████| 9/9 [00:00<00:00, 10.65it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9NN9//pred.model_idx_0.cif
+Native : ../../../../01_dataset/9NN9.pdb
+Total DockQ over 1 native interfaces: 0.012 with AB:CD model:native mapping
+Native chains: C, D
+	Model chains: A, B
+	DockQ: 0.012
+	iRMSD: 14.625
+	LRMSD: 52.661
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 0
+
+Model: 9NN9//pred.model_idx_1.cif
+DONE:   0%|          | 0/9 [00:00<?, ?it/s]DONE:  11%|█         | 1/9 [00:00<00:05,  1.43it/s]DONE:  78%|███████▊  | 7/9 [00:00<00:00, 11.02it/s]DONE: 100%|██████████| 9/9 [00:00<00:00, 10.37it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9NN9//pred.model_idx_1.cif
+Native : ../../../../01_dataset/9NN9.pdb
+Total DockQ over 1 native interfaces: 0.015 with AB:CD model:native mapping
+Native chains: C, D
+	Model chains: A, B
+	DockQ: 0.015
+	iRMSD: 12.191
+	LRMSD: 49.282
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 1
+
+Model: 9NN9//pred.model_idx_2.cif
+DONE:   0%|          | 0/9 [00:00<?, ?it/s]DONE:  11%|█         | 1/9 [00:00<00:05,  1.40it/s]DONE:  78%|███████▊  | 7/9 [00:00<00:00, 10.88it/s]DONE: 100%|██████████| 9/9 [00:00<00:00, 10.24it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9NN9//pred.model_idx_2.cif
+Native : ../../../../01_dataset/9NN9.pdb
+Total DockQ over 1 native interfaces: 0.014 with AB:CD model:native mapping
+Native chains: C, D
+	Model chains: A, B
+	DockQ: 0.014
+	iRMSD: 12.663
+	LRMSD: 49.390
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 2
+
+Model: 9NN9//pred.model_idx_3.cif
+DONE:   0%|          | 0/9 [00:00<?, ?it/s]DONE:  11%|█         | 1/9 [00:00<00:05,  1.38it/s]DONE:  78%|███████▊  | 7/9 [00:00<00:00, 10.75it/s]DONE: 100%|██████████| 9/9 [00:00<00:00, 10.13it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9NN9//pred.model_idx_3.cif
+Native : ../../../../01_dataset/9NN9.pdb
+Total DockQ over 1 native interfaces: 0.015 with AB:CD model:native mapping
+Native chains: C, D
+	Model chains: A, B
+	DockQ: 0.015
+	iRMSD: 12.124
+	LRMSD: 48.203
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 1
+
+Model: 9NN9//pred.model_idx_4.cif
+DONE:   0%|          | 0/9 [00:00<?, ?it/s]DONE:  11%|█         | 1/9 [00:00<00:05,  1.45it/s]DONE:  89%|████████▉ | 8/9 [00:00<00:00, 13.12it/s]DONE: 100%|██████████| 9/9 [00:00<00:00, 10.82it/s]
+****************************************************************
+*                       DockQ                                  *
+*   Docking scoring for biomolecular models                    *
+*   DockQ score legend:                                        *
+*    0.00 <= DockQ <  0.23 - Incorrect                         *
+*    0.23 <= DockQ <  0.49 - Acceptable quality                *
+*    0.49 <= DockQ <  0.80 - Medium quality                    *
+*            DockQ >= 0.80 - High quality                      *
+*   Ref: Mirabello and Wallner, 'DockQ v2: Improved automatic  *
+*   quality measure for protein multimers, nucleic acids       *
+*   and small molecules'                                       *
+*                                                              *
+*   For comments, please email: bjorn.wallner@.liu.se          *
+****************************************************************
+Model  : 9NN9//pred.model_idx_4.cif
+Native : ../../../../01_dataset/9NN9.pdb
+Total DockQ over 1 native interfaces: 0.014 with AB:CD model:native mapping
+Native chains: C, D
+	Model chains: A, B
+	DockQ: 0.014
+	iRMSD: 12.743
+	LRMSD: 49.132
+	fnat: 0.000
+	fnonnat: 1.000
+	F1: 0.000
+	clashes: 1
+
+--------------------------------------------
+
+Folder: cdr3
+Reference missing: ../../../../01_dataset/cdr3.pdb
+
+Folder: output
+Reference missing: ../../../../01_dataset/output.pdb
+
+Folder: plots
+Reference missing: ../../../../01_dataset/plots.pdb
+
