@@ -17,13 +17,7 @@ Python 3.9 or later
 
 The Python scripts require the following packages:
 
-MDAnalysis
-matplotlib
-numpy
-pandas
-scipy
-Biopython
-PyMOL (open-source)
+MDAnalysis, matplotlib, numpy, pandas, scipy, Biopython and PyMOL (open-source)
 
 
 **Install the required packages using:**
@@ -59,12 +53,7 @@ python get_fasta.py
 
 The directory includes example FASTA and JSON input files for:
 
-AF3
-ESMFold2
-HF3
-Boltz-2
-Chai-1
-Protenix-v2
+AF3, Boltz-2, Chai-1, ESMFold2, HF3 and Protenix-v2
 
 Run a prediction, for example:
 
@@ -78,12 +67,7 @@ Contains benchmarking and analysis workflows.
 
 Evaluation pipelines are available for:
 
-AF3
-ESMFold2
-HF3
-Boltz-2
-Chai-1
-Protenix-v2
+AF3, Boltz-2, Chai-1, ESMFold2, HF3 and Protenix-v2
 
 Run an evaluation workflow, for example:
 
